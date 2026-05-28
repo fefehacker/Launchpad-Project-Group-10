@@ -52,12 +52,12 @@ Launchpad-Project-Group-10/         ← repo root
 **Done:**
 - Categories schema (`lib/categories.ts`) and Location type (`types/location.ts`).
 - Frontend scaffold: `Map.tsx`, `Sidebar.tsx`, `SearchBar.tsx`, `page.tsx`.
-- Filter-by-category + substring-search-on-name-and-address working against an inline mock array.
+- Filter-by-category + substring-search-on-name-and-address logic in `page.tsx`.
 - KML file with ~125 placemarks exported from the source Google My Map.
+- Supabase wiring — `page.tsx` fetches from `supabase.from('locations').select('*')` on mount via `useEffect`. `MOCK_LOCATIONS` removed.
 
 **Not done:**
 - `npm install` for the new dep `@vis.gl/react-google-maps` (added to `package.json`, not yet installed).
-- Supabase wiring — `page.tsx` still uses `MOCK_LOCATIONS`. The exact swap pattern is in a comment block at the top of `page.tsx`.
 - KML → Supabase data import. The KML is in `ladywood-local/Ladywood Constituency (1).kml`. Categorisation cannot be done by KML pin colour alone — one marker (the Recycling Popup) is mis-coloured. Need a manual pass on name + description.
 - `.env.local` with real keys (Google Maps + Supabase).
 - Real Google Cloud Map ID — `Map.tsx` currently uses `'DEMO_MAP_ID'`. Fine for dev, replace before deploy.
@@ -68,8 +68,8 @@ In rough order:
 
 1. `cd ladywood-local && npm install` to pull `@vis.gl/react-google-maps`.
 2. Create `ladywood-local/.env.local` with the three env vars (Google Maps key, Supabase URL, Supabase anon key). All must have the `NEXT_PUBLIC_` prefix.
-3. `npm run dev` — confirm the map loads centred on Ladywood with the 3 mock markers visible. If you see "Missing NEXT_PUBLIC_GOOGLE_MAPS_API_KEY", `.env.local` isn't being read (restart the dev server).
-4. Replace `MOCK_LOCATIONS` in `page.tsx` with a Supabase fetch (`useEffect` + `supabase.from('locations').select('*')`). Pattern is in the header comment of `page.tsx`.
+3. `npm run dev` — confirm the map loads centred on Ladywood (no markers yet — the `locations` table is empty until the KML import is done). If you see "Missing NEXT_PUBLIC_GOOGLE_MAPS_API_KEY", `.env.local` isn't being read (restart the dev server).
+4. ✅ `MOCK_LOCATIONS` replaced with a live Supabase fetch in `page.tsx`.
 5. Do the KML → Supabase import. Parse the KML in a script, map style colours → category keys (with a manual sanity pass for the mis-coloured Recycling Popup), insert as rows into the `locations` table. Schema is in `README.md`.
 6. Create a real Map ID in Google Cloud Console (Map Management) and replace `'DEMO_MAP_ID'` in `Map.tsx`.
 
@@ -80,4 +80,5 @@ In rough order:
 - **British spelling**: `colour` not `color` throughout (it's a UK uni project, the existing code uses British). Mixing the two will cause confusing bugs.
 - **Restrict the Google Maps API key** in Google Cloud Console by HTTP referrer (`localhost:3000/*` for dev, Vercel URL for prod) AND by API (only Maps JavaScript API). An unrestricted key in a public repo is a billing risk even on the free tier.
 - **`.env.local` must not be committed.** Default `.gitignore` excludes it; verify with `git status` after creating the file.
+- **`node_modules/` is committed to the repo root** (unusual but intentional for this project). If `git pull` fails with "untracked files would be overwritten by merge", delete your local `node_modules/` first (`rm -rf node_modules`) then re-run `git pull`.
 - **AdvancedMarker needs a Map ID** on the `<Map>` component. Without one it silently fails to render markers. `DEMO_MAP_ID` works for local dev only.
