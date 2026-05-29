@@ -31,6 +31,8 @@ export default function SearchBar({ value, onChange }: SearchBarProps) {
                 padding: '10px 14px',
                 fontSize: 14,
                 border: '1px solid #ccc',
+                background: '#d3d3d3',
+                color: '#333',
                 borderRadius: 6,
                 outline: 'none',
                 boxSizing: 'border-box',

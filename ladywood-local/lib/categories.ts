@@ -2,22 +2,27 @@ export const CATEGORIES = {
     food_bank: {
         label: "Food Bank",
         emoji: "🥫",
-        colour: "#E05C5C"
+        colour: "#9b4a3e50",
+        fontColour: "#9B4B3E"
+    },
+     warm_hub: {
+        label: "Warm Hub",
+        emoji: "☕",
+        colour: "#40668E50",
+        fontColour: "#40668E"
     },
     community_fridge: {
         label: "Community Fridge",
         emoji: "🥗",
-        colour: "#4CAF7D"
+        colour: "#406E4D50",
+        fontColour: "#406E4D"
     },
-    warm_hub: {
-        label: "Warm Hub",
-        emoji: "☕",
-        colour: "#9C27B0"
-    },
+   
     waste_centre: {
         label: "Waste Centre",
-        emoji: "🏗️",
-        colour: "#F5A623"
+        emoji: "🗑️",
+        colour: "#584E9150",
+        fontColour: "#584E91"
     }
 }
 
