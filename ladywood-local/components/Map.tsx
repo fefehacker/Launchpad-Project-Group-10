@@ -77,7 +77,7 @@ export default function Map({ locations }: MapProps) {
                         >
                             <div
                                 style={{
-                                    background: cat.colour,
+                                    background: cat.fontColour,
                                     borderRadius: '50%',
                                     width: 36,
                                     height: 36,

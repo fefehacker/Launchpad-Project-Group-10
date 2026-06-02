@@ -12,16 +12,21 @@
  *    owns the `activeCategories` state and the filtering logic.
  */
 
+import SearchBar from '../components/SearchBar'
 import { CATEGORIES, type CategoryKey } from '../lib/categories'
 
 interface SidebarProps {
     activeCategories: CategoryKey[]
     onToggleCategory: (key: CategoryKey) => void
+    searchQuery: string
+    onSearchChange: (next: string) => void
 }
 
 export default function Sidebar({
     activeCategories,
     onToggleCategory,
+    searchQuery,
+    onSearchChange,
 }: SidebarProps) {
     const keys = Object.keys(CATEGORIES) as CategoryKey[]
 
@@ -36,7 +41,8 @@ export default function Sidebar({
                 flexShrink: 0,
             }}
         >
-            <h2 style={{ margin: '0 0 16px 0', fontSize: 18 }}>Filters</h2>
+            <SearchBar value={searchQuery} onChange={onSearchChange} />
+            <h2 style={{ margin: '16px 0 16px 0', fontSize: 18 }}>Filters</h2>
 
             {keys.map((key) => {
                 const cat = CATEGORIES[key]
@@ -53,8 +59,8 @@ export default function Sidebar({
                             padding: '8px 12px',
                             marginBottom: 8,
                             background: isActive ? cat.colour : 'white',
-                            color: isActive ? 'white' : '#333',
-                            border: `2px solid ${cat.colour}`,
+                            color: isActive ? cat.fontColour : '#333',
+                            border: `2px solid ${cat.fontColour}`,
                             borderRadius: 6,
                             cursor: 'pointer',
                             fontSize: 14,
