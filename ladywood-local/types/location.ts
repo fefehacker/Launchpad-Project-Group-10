@@ -1,4 +1,6 @@
-export type LocationType = 'food_bank' | 'community_fridge' | 'recycling' | 'waste_centre'
+import type { CategoryKey } from '../lib/categories'
+
+export type LocationType = CategoryKey
 
 export interface Location {
   id: number

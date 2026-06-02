@@ -1,0 +1,1469 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Ladywood Constituency</name>
+    <Style id="icon-1502-0288D1-labelson">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1502-0F9D58-labelson">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1502-E65100-labelson">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1502-F57C00-labelson">
+      <IconStyle>
+        <color>ff007cf5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1577-F57C00-labelson">
+      <IconStyle>
+        <color>ff007cf5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1603-9C27B0-labelson">
+      <IconStyle>
+        <color>ffb0279c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-labelson">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-0F9D58-labelson">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-FF5252-labelson">
+      <IconStyle>
+        <color>ff5252ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-FFEA00-labelson">
+      <IconStyle>
+        <color>ff00eaff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Placemark>
+      <name>free@last </name>
+      <description><![CDATA[Warm hub without food offer<br><br>Opening times<br>- Coffee morning - Thursdays 11am - 12pm<br>- Stay and Play - Fridays 1-3pm, Term Time only<br><br>Other youth activities on offer; visit Facebook page for details: <br><br>https://www.facebook.com/freeatlast.nechells<br>www.freeatlast.co.uk<br><br>Contact:<br>Tel: 0121 327 5959<br>Email: info@freeatlast.co.uk<br><br>Address:<br>49 Nechells Park Rd<br>Nechells<br> Birmingham<br> B7 5PR<br><br>[Feb 25]]]></description>
+      <styleUrl>#icon-1603-9C27B0-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -1.8683421,52.4975861,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Newbigin Community Trust @ Windsor Olympus Academy</name>
+      <description><![CDATA[Warm hub without food offer<br><br>Opening hours:<br>Tuesday - Thursday, 10am to 2pm<br><br>Activities including crafts, art, cooking, sewing, sports, ESOL, knitting, crochet, and coffee morning - Women Only<br><br>Advocacy support with forms, CVs, benefits, letters, school matters, housing - open to everyone<br><br>Contact<br>Phone: 07899 104960<br>Email: wiam@newbiginhouse.uk<br><br>Website: https://www.newbigintrust.uk/<br><br>Services<br>Accessible entrance<br>Free Wi-fi<br>Charging facilities for phones and other devices<br>Refreshments such as hot drinks, cordial and biscuits<br>Activities for example cooking classes, arts and crafts or physical activity<br><br>Address<br>Newbigin Community Hub at Windsor Olympus Academy<br>Perrot Street<br>Birmingham<br>B18 4LX<br><br>[Feb 26]]]></description>
+      <styleUrl>#icon-1603-9C27B0-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -1.9424682,52.4979894,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Newbigin Community Trust @ Newbigin House</name>
+      <description><![CDATA[Warm hub without food offer<br><br>Opening hours<br>Monday  - Wednesday, 9:00am to 1:00pm<br>Thursday, 9:00am to 3:00pm<br><br>Contact<br>Phone: 07769 036498<br>Email: info@newbiginhouse.uk<br><br>Website: https://newbigintrust.uk/<br><br>Services<br>Accessible entrance<br>Free Wi-fi<br>Charging facilities for phones and other devices<br>Hot drinks, cordial and biscuits<br>TV<br>Library corner/facilities<br>Toilets including accessible toilets and baby-changing facilities<br>Activities<br>Play equipment<br>Outdoor spaces/activities<br><br>Address<br>28 Handsworth New Road<br>Winson Green<br>Birmingham<br>B18 4PT<br><br>[Feb 26]]]></description>
+      <styleUrl>#icon-1603-9C27B0-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -1.9397338,52.4966493,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Newbigin Community Trust @ Lodge Road Church Centre URC</name>
+      <description><![CDATA[Warm Hub with food offer via community café <br><br>Opening hours: Tuesday to Friday, 10am to 2pm,<br>Sunday, 10am to 1pm<br>These may be flexible depending on need. <br><br>Community Cafe Tuesday - Friday, low cost £2<br>Community Lunch on Sunday<br>Contact  info@newbiginhouse.uk<br><br>Services<br>Accessible entrance<br>Free Wi-Fi<br>Free use of computers and other devices<br>Charging facilities for phones and other devices<br>Refreshments such as hot drinks, cordials, and biscuits<br>Warm food<br>Toilets, including accessible toilets and baby-changing facilities<br>Magazines and newspapers<br>Library facilities<br>Book borrowing and swapping<br>Outdoor spaces and activities<br>Activities such as knit and natter, music groups, blacksmithing and art groups<br><br>Lodge Road Church Centre URC,<br>143/4 Lodge Road,<br>Birmingham,<br>B18 5BU<br><br>[Feb 26]]]></description>
+      <styleUrl>#icon-1502-F57C00-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -1.9296651,52.4937327,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Love Your Neighbour
+</name>
+      <description><![CDATA[Warm hub with food offer<br>• There are charges for food and drinks, these may be able to be provided free of cost at the discretion of the LYN team<br><br>Opening times:<br>Monday - Thursday: 9am to 4pm<br>Friday: Midday to 4pm<br><br>•	Charging facilities for phones and other devices<br>•	Hot drinks, cordial and biscuits<br>•	Warm Food<br>•	Food Bank<br>- Food Pantry<br>- Book borrowing/swap<br>- Toilets including accessible toilets and baby changing facilities<br>- Play equipment<br>- Car parking<br>- Free Craft Club (Tuesday)<br>- Free English Conversation classes (Monday evening)<br>- Free support for children with SEND and their families<br><br>Contact:<br>01218205618<br>loveyourneighbour@gasstreet.church<br><br>St Luke’s (Gas Street),<br>Great Colmore St,<br>Ladywood,<br>Birmingham,<br>B15 2AT<br><br>[Dec 25]]]></description>
+      <styleUrl>#icon-1577-F57C00-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -1.9035986,52.471271,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Birmingham City Mission Care Centre</name>
+      <description><![CDATA[Warm hub with food offer<br><br>Open Monday - Thursday 10:30am - 3pm<br>Contact: <br>Email philansell@birminghamcitymission.co.uk or carecentre@birminghamcitymission.co.uk or call on 0121 289 2894<br><br>Services<br>- Charging facilities for phones and other devices<br>- Hot drinks, cordial and biscuits<br>- Warm food, Lunch served at 12:30pm, dessert at 1pm<br>- Food bank<br>- Toilets<br>- Disabled Toilets<br>- Shower facilities<br> <br>Activities include:<br>- Running in the afternoons<br>- A ukulele group<br>- Bible study<br>- Arts and crafts group.<br><br>Birmingham City Mission Care Centre<br>8-10 Washington Street<br>Birmingham<br>B1 1JR<br><br> [Feb 26]]]></description>
+      <styleUrl>#icon-1577-F57C00-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -1.9052671,52.4736778,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Stanhope Wellbeing Hub</name>
+      <description><![CDATA[Warm welcome hub with food offer<br><br>Tuesday 10am - 1pm  Women's group inside,  men's gardening group. <br>Community lunch, Thursdays 12pm; £2 cost<br>Open to all, no referral needed<br><br>Call 0121 446 5389<br><br>Address:<br>Stanhope Hall<br>Ketley Croft<br>Birmingham<br>B12 0XG<br><br>[Apr 25]]]></description>
+      <styleUrl>#icon-1577-F57C00-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -1.88683360000005,52.4666127,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Street Banquet 
+</name>
+      <description><![CDATA[Free/Pay As You Feel cooked food<br><br>1st Sunday of the month: 4pm - 5.30pm<br><br>Open access/no referral needed<br><br>Contact:<br>Neil Johnson<br>neil@streetbanquet.org.uk<br>07946093070<br><br>Venue changes each month - contact Neil to find out more.<br><br>[Jun 25]]]></description>
+      <styleUrl>#icon-1502-E65100-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -1.8931293,52.4796182,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Small Heath Baptist Church</name>
+      <description><![CDATA[Warm hub with food offer<br><br>Opening hours:<br>- Place of welcome: Wednesday, 10am -  midday<br>- Knit and Natter for people over 50: Friday 11am to 1pm<br>- Every 6 weeks: Saturday coffee morning and breakfast, 11am - 1pm. For dates contact office: 0121-766-7803.<br><br>Free internet access<br>Free use of devices<br>Charging facilities for phones and other devices<br>Work stations<br>Refreshments such as hot drinks, cordials, and biscuits<br>Food pantry<br>Magazines and newspapers<br>Toilets, including accessible toilets and baby-changing facilities<br>Shower facilities<br>Children's play equipment<br>Outdoor spaces and activities<br>Somewhere to park your car<br>Activities such as arts and crafts, knitting, crochet, and artwork<br><br>14 Jenkins Street,<br>Small Heath,<br>Birmingham,<br>B10 0QH<br><br>[May 25]]]></description>
+      <styleUrl>#icon-1577-F57C00-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -1.8636605,52.4713041,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SHINE @ Nechells POD</name>
+      <description><![CDATA[Warm hub with food offer and food pantry<br><br>Opening hours:<br>Monday to Thursday, 9am - 5pm<br>Coffee and Chat Adult only - 11:30am - 12:30pm<br>Friday 9am - 2.30pm<br>Place of Welcome 9:30 - 11am<br><br>Please contact them for more details about age-restricted activities offered at other times<br><br>Contact<br>0121 681 2173<br><br>Services<br>Free internet access<br>Free use of computers and other devices<br>Refreshments such as hot drinks, cordials, and biscuits<br>Magazines and newspaper<br>Library facilities<br>Book borrowing and swapping<br>Toilets, including accessible toilets and baby-changing facilities<br>Children's play equipment<br>Outdoor spaces and activities<br>Somewhere to park your car<br>Welfare and energy advice<br>Planned speaker or activity for every Place of Welcome session<br><br>Nechells POD<br>28 Oliver Street<br>Nechells<br>Birmingham,<br>B7 4NX<br><br>[Dec 25]]]></description>
+      <styleUrl>#icon-1577-F57C00-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -1.875186,52.4926797,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Fill the Gap
+</name>
+      <description><![CDATA[Warm Welcome - With low cost food offers<br><br>Place of Welcome opening times:<br>Wednesday 10am - 12pm<br><br>Monday evenings 6:30pm - 8pm, £5<br>Wednesday lunchtimes 12 - 1:30pm, £3.50 - booking is essential so email Kirsty before 9am Wednesday.<br><br>https://www.facebook.com/thegapcentre/?locale=en_GB<br><br>Contact: Kirsty Widdows<br>Email: kirsty@thegaponline.org<br>Tel: 0121 525 4442<br><br>The Gap Christian Family Centre<br>Hargate Lane<br>West Bromwich<br>B71 1PH<br><br>[Mar 26]]]></description>
+      <styleUrl>#icon-1577-F57C00-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -1.9934982,52.5252519,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Christ Calling Ministries</name>
+      <description><![CDATA[Warm hub with food offer<br><br>Opening hours:<br>Monday: 11am - 3.30pm - Soup Kitchen & Warm Welcome space<br>Friday: 11am - 4pm - Warm Welcome<br>Friday: 6.30pm - 7.30pm - MisFit Mentorship Youth Club<br><br>Contact: 07376496888 or christcallingm@gmail.com<br><br>Address:<br>72- 78 Crompton Road<br>Nechells<br> Birmingham<br>B7 5SN<br><br>Services:<br>Food parcels and clothes<br>MisFit Mentorship Youth Club<br>Accessible entrance<br>Free Wi-fi<br>Hot drinks, cordial and biscuits<br>Toilets<br>Play equipment<br>Car parking<br>Activities<br>Free devices to use<br>Warm food<br><br>[Jan 26]]]></description>
+      <styleUrl>#icon-1577-F57C00-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -1.8638419,52.5050337,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Feedo Needo @ Arabica café </name>
+      <description><![CDATA[Warm hub with food offer<br><br>Mondays to Fridays 9am to 5pm<br><br>24-28 Smithfield House,<br>Digbeth, Birmingham B5 6BS<br><br>https://feedoneedo.org.uk/cafe<br><br>Contact number:<br>03003111312<br><br>Services<br>- Charging facilities for phones and other devices<br>- Hot drinks, cordial and biscuits<br>- Food bank<br>- Magazines<br>- Newspapers<br>- Library corner/facilities<br>- Laundry facilities<br>- Play equipment<br><br>[Nov 25]]]></description>
+      <styleUrl>#icon-1577-F57C00-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -1.8909166,52.475932,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[St. Martin's in the Bullring]]></name>
+      <description><![CDATA[Warm welcome hub with food offer<br><br>Opening times:<br>- Mondays 10am - 12pm: Cuppa & Chat<br>- Thursday, 10:30am to midday, Mini Martins Stay and Play (under 5s and their carers).<br><br>Services<br>Accessible entrance<br>Charging facilities for phones and other devices<br>Hot drinks, cordial and biscuits<br>Newspapers<br>Toilets<br>Disabled Toilets<br>Baby changing facilities<br>Warm food, sandwiches.<br><br>Contact<br>ivor@bullring.org or 0121 600 6020<br><br>St Martin in the Bullring,<br>Birmingham Parish Church,<br>Edgbaston St,<br>B5 5BB<br><br>[Jan 26]]]></description>
+      <styleUrl>#icon-1577-F57C00-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -1.893224,52.4770256,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Birmingham Care Group Community Hub</name>
+      <description><![CDATA[Warm hub with food offer<br><br>Tues - Friday 10am - 2pm<br>Low cost, nutritious food from Rick's Café, located in the hub.<br><br>Contact<br>info@birminghamcaregroup.org<br>Tel: 0121 523 9690<br><br>https://www.birminghamcaregroup.org/<br><br>Units 5 & 6<br> Magreal Business Park<br>Freeth Street<br>B16 0QZ<br><br>[Aug 25]]]></description>
+      <styleUrl>#icon-1577-F57C00-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -1.9284055,52.4810946,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Rayon Wallace Helping Hand @ Calvary Church Aston</name>
+      <description><![CDATA[Warm space with food offers<br><br>Warm Space Wednesday and Saturdays 10:30 - 12:30pm<br>Hot meals on Saturday 3:30pm - 5:30pm<br>1st Thursday of the month - over 50s lunch club <br><br>For more information contact:<br>07876 590202 or 07828853319<br>or rayonwallacehelpinghand@outlook.com<br><br>https://www.facebook.com/profile.php?id=100089847562165<br><br>Address:<br>Calvary Church of God In Christ<br>1 Burlington Street<br>Aston <br>Birmingham<br> B6 4UB<br><br>[Feb 25]]]></description>
+      <styleUrl>#icon-1577-F57C00-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -1.8927417,52.4983881,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Your Money Your Way Emergency Food bank
+</name>
+      <description><![CDATA[Emergency FREE parcels available - ( 1 per month per household)<br>Emergency parcels are pre made set bags, containing 2-3 days worth of food and toiletries.<br><br>Contact Marsha Russell:<br>Tel: 01217149803<br>Mob: 077 372 17259<br>Email: info@ymyw.co.uk<br><br>City Road Methodist Church (Extension), <br>B18 0NL<br>(Entrance is on Selwyn road, via car park next to Wesley Court)<br><br>[Dec 25]]]></description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -1.9450377,52.4837007,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Al-Hijrah Centre Heartlands Foodbank
+</name>
+      <description><![CDATA[Open access - no referrals/vouchers/prior registration required. <br><br>Saturday 10am-12pm<br><br>Contact: hfb@alhijrahtrust.org<br><br>Address:<br>59 Hob Moor Rd<br>Birmingham<br> B10 9AZ<br><br>[Feb 26]]]></description>
+      <styleUrl>#icon-1502-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -1.8392193,52.474296,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Birmingham Central Mosque Foodbank</name>
+      <description><![CDATA[Foodbank - open access/no referrals needed.<br><br>1 visit per family per week<br>Tue 12pm till 2pm<br>Sat 11am till 1pm<br><br>BCM Foodbank will issue registration cards to users of foodbank to ensure a control and balanced process for distribution of food provisions.<br><br>For further enquiries please contact:<br>Mr. Mubarik Ali 07977 484 409<br>Email: foodbank@centralmosque.org.uk<br><br>Address:<br>180 Belgrave Middleway<br> Birmingham<br> B12 0XS<br><br>[Aug 25]]]></description>
+      <styleUrl>#icon-1502-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -1.890596,52.464617,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Birmingham Outreach Foundation
+</name>
+      <description><![CDATA[On Street Support Group - Free Hot meals<br><br>Wednesdays, 7pm - 8pm<br><br>The Old Square, B4 6AG<br><br>[Jan 26]]]></description>
+      <styleUrl>#icon-1502-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -1.8950552,52.4821775,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Birmingham Support Group & Pashtun Trust]]></name>
+      <description><![CDATA[On Street Support Group Soup Kitchen<br><br>Wednesdays, 6.30pm -8pm<br><br>Contact Eamon Boyle on 07427129264<br><br>Dalton Street, City Centre, by Birmingham Law Courts<br><br>[Jan 26]]]></description>
+      <styleUrl>#icon-1502-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -1.8926872,52.4830692,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>UCKG Foodbank Birmingham</name>
+      <description><![CDATA[Open access - no referrals or voucher needed<br><br>Saturdays 11am - 1pm<br><br>UCKG Helpcentre<br>128 Suffolk Street Queensway Birmingham<br>B1 1LX<br><br>foodbank@uckg.org<br>020 7686 6000<br><br>[Feb 24]]]></description>
+      <styleUrl>#icon-1502-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -1.9019442,52.4758352,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>UCKG Foodbank Lozells Rd</name>
+      <description><![CDATA[Open access - no referrals or voucher needed<br><br>Saturday 11am - 1pm<br><br>UCKG Helpcentre<br>99 Lozells Road<br> Lozells<br>Birmingham<br>B19 2TR<br><br>foodbank@uckg.org<br>020 7686 6000<br><br>[Feb 24]]]></description>
+      <styleUrl>#icon-1502-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -1.9062032,52.5029994,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>UCKG Outreach Night Angels</name>
+      <description><![CDATA[On Street Support Group for the Homeless <br><br>Walk around the city centre<br>Fridays 9pm - 10pm<br><br>Pizzas, hot food and drinks available<br><br>[Aug 24]]]></description>
+      <styleUrl>#icon-1502-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -1.902062,52.4757892,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Churches Soup Run Crossroads</name>
+      <description><![CDATA[On Street Support Group<br><br>Every 2nd Thursday of the month, 5.30pm - 6.45pm<br>Every 3rd Tuesday of the month, 5:30pm - 6:45pm<br><br>Corner of Dalton Street/Ryder Street<br><br>[Jan 26]]]></description>
+      <styleUrl>#icon-1502-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -1.8920548,52.4839765,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Clifton Road Food Bank</name>
+      <description><![CDATA[Wednesdays 10-11<br><br>Will be asked to register and demonstrate eligibility, please bring benefits letters etc, although try not to turn anyone away. <br><br>cliftonroadfoodbank@gmail.com <br><br>220 Gooch Street<br>Birmingham<br> B5 7HY<br><br>[May 25]]]></description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -1.89345409999999,52.4675993,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Incredible Surplus: Ladywood</name>
+      <description><![CDATA[Food Bag distribution<br><br>Wednesdays 12pm - 2pm<br>Fridays 12pm - 2pm<br><br>Pay As You Feel with time, money, skills - share what you can<br>https://incrediblesurplus.org/locations/ladywood/<br><br>St John's and St Peter's Church<br> Darnley Road<br> Ladywood<br>B16 8TF<br><br>[Feb 26]]]></description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -1.9277013,52.4774642,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Incredible Surplus: Winson Green</name>
+      <description><![CDATA[Food Bag Distribution<br><br>Thursdays 10am - 12pm<br>Saturdays 10am - 12pm<br><br> Pay As you Feel with time, money, skills - share what you can<br> https://incrediblesurplus.org/locations/winson-green/<br><br>Unit 58<br>Western Business Park<br>Great Western Close<br>Birmingham<br>B18 4QF<br><br>[Feb 26]]]></description>
+      <styleUrl>#icon-1502-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -1.935734,52.497571,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Feedo Needo Foodbank
+</name>
+      <description><![CDATA[Foodbank - anyone can access/no referrals or voucher needed, but is come on a first come, first serve.<br><br>Fridays 2pm - 4pm<br><br>Contact:<br> gracefilled@feedoneedo.org.uk or info@feedoneedo.org.uk<br>03003111312<br>https://feedoneedo.org.uk/cause-foodbank<br><br>[Nov 25]]]></description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -1.8911797,52.4758399,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[St Michael's Foodbank]]></name>
+      <description><![CDATA[Foodbank - open access/no referrals or voucher needed<br><br>Tuesday 11am - 1pm <br><br>Contact:<br>Mob: 07870 333954<br>Email: gillianbrose@googlemail.com<br><br>https://www.facebook.com/SaintMfoodbank/?locale=en_GB<br><br>Address:<br>St Michael's Church<br> St Michael's Road, off Soho Hill<br> Handsworth<br> Birmingham<br> B18 5LB<br><br>[Nov 25]]]></description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -1.9238589,52.5003083,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Salma Foodbank @ Greets Green Access Centre</name>
+      <description><![CDATA[Open access - no referrals/voucher needed<br><br>Open last Friday of the month, 3 - 4pm<br><br>Please report to reception at this depot.<br><br>Greets Green Access Centre<br>Tildasley Street<br>West Bromwich <br>B70 9SJ<br><br>Just text for further details: 07767 164246. Please state full name when picking up the food parcel.<br><br>[Feb 24]]]></description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -2.007123,52.52629,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Salma Foodbank Smethwick</name>
+      <description><![CDATA[Open access - no referrals/voucher needed<br><br>Opening hours:<br>Mon 10am - 1pm<br><br>Unit 8<br>Ash Court<br>Crystal Drive<br>Smethwick<br>B66 1QG<br><br>Just text for further details: 07767 164246<br><br>[Feb 24]]]></description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -1.995754,52.5050193,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>St Chads Sanctuary Foodbank (Salvation Army)</name>
+      <description><![CDATA[Asylum seekers and refugees only.<br><br>Collect food every Monday, Wednesday and Friday from 10:30am to 1:30pm. You can drop in:<br>https://sanctuary.setmore.com/ <br>All visitors must show their ID card or papers at every visit. Please bring a shopping trolley or bags with you. One shop per individual/family per week.<br><br>http://www.stchadssanctuary.com/index.php/clothes<br>Call 0121 233 3127 or 07898 062765 or email info@stchadssanctuary.com <br><br>72-74 Shadwell Street<br> Birmingham<br>B4 6HA<br><br> [Nov 25]]]></description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -1.8991559,52.4860597,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Who Is Hussain</name>
+      <description><![CDATA[On Street Support Group<br><br>Tuesdays: 6:45pm - 7:45pm<br>Thursdays: 7pm - 8pm<br><br>Corner of Margaret Street and Edmund Street, off Chamberlain Square<br><br>[Feb 26]]]></description>
+      <styleUrl>#icon-1502-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -1.9031286,52.4808172,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Who is Hussain in partnership with BeKind</name>
+      <description><![CDATA[On Street Support Group Food Drive<br><br>Mondays: 7pm - 8:15pm<br><br>https://www.bekind-uk.org/food-drive<br>info@bekind-uk.org<br><br>BeKind Food Drive<br>Rear of House of Fraser<br>Temple Row<br>Birmingham<br><br>[Feb 26]]]></description>
+      <styleUrl>#icon-1502-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -1.8975186,52.4810508,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MLSS (Midland Langer Seva Society)</name>
+      <description><![CDATA[On Street Support Group St James Queensway<br><br>Monday: 6pm - 7pm<br>Tuesday: 6pm - 7pm<br>Wednesday: 6pm - 7pm<br>Thursday: 6pm - 7pm<br>Friday: 6pm - 7pm<br>Saturday: 6pm - 7pm<br>Sunday: 6pm - 7pm<br><br>[Jan 26]]]></description>
+      <styleUrl>#icon-1502-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -1.8921784,52.4837753,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Let's Feed Brum @ Birmingham Cathedral]]></name>
+      <description><![CDATA[Free breakfast clubs and outreach<br><br>Breakfast clubs in front of Birmingham Cathedral:<br>Tuesday: 10am - 12pm<br>Thursday: 10am - 12pm<br><br>Outreach:<br>Evening walkabout in city centre everyday from approximately 6.30pm - 8pm. Our teams always pass through Pigeon Park early on, so look out for us there.<br><br>LFB chatline: 0800 0016 847<br>info@letsfeedbrum.com<br><br>[Jan 26]]]></description>
+      <styleUrl>#icon-1502-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -1.8991412,52.4811597,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>As-Suffa Homeless Outreach</name>
+      <description><![CDATA[On Street Support Group Soup Kitchen<br><br>Wednesday: 6.45pm - 7.45pm<br>Thursday: 6.45pm - 7.45pm<br>Friday: 6.45pm - 7.45pm<br>Saturday: 6.45pm - 7.45pm<br>Sunday: 6.45pm - 7.45pm<br><br>Address:<br>Arch 22, Lionel Street, <br>Birmingham <br>B3 1AG<br><br>[Feb 26]]]></description>
+      <styleUrl>#icon-1502-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -1.901759,52.4851537,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Helping Hands of Birmingham</name>
+      <description><![CDATA[On Street Support Group<br><br>Homeless outreach support<br><br>Wednesday: 7pm walkabout from the markets<br>Thursday: 7pm walkabout from the markets<br>Sunday: 7.30am walkabout from the markets<br><br>Contact:<br>Call us: 07729286720<br>Email:<br>Helpinghandsbirmingham@outlook.com<br><br>[Sept 24]]]></description>
+      <styleUrl>#icon-1502-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -1.8938115,52.476477,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SBC Family</name>
+      <description><![CDATA[On Street Support Group<br><br>Sunday: 9am<br><br>On the road between Pigeon Park and the back of House of Fraser<br><br>[Jan 23]]]></description>
+      <styleUrl>#icon-1502-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -1.8971648,52.4812338,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Outreach Angels</name>
+      <description><![CDATA[On Street Support Group<br><br>Tuesday: 7.45pm - 9pm<br><br>Centenary Square side of Birmingham Central Library<br><br>[Jan 26]]]></description>
+      <styleUrl>#icon-1502-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -1.9079834,52.479432,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Nishkam SWAT</name>
+      <description><![CDATA[On Street Support Group<br><br>St Chads Square - outside St Chad's Cathedral<br><br>Saturdays 5pm - 6pm<br>Sundays  5pm - 6pm<br><br>[Aug 24]]]></description>
+      <styleUrl>#icon-1502-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -1.8989526,52.4858252,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The Global Peacemakers - Foodbank + Breakfast on Sundays</name>
+      <description><![CDATA[Open access/no referral needed<br><br>Food bank:<br>Tuesday: 3pm - 5pm<br>Friday: 3pm - 5pm<br>Saturday: 3pm - 5pm<br>Sunday: Breakfast served: 9am - 11am, Foodbank: 9am - 3pm<br><br>Contact info:<br>0121 517 0223<br>globalpeacemakersuk@gmail.com<br><br>100 Windsor Street South,<br>B7 4HZ<br><br>[Apr 24]]]></description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -1.8810088,52.4868157,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The Global Peacemakers</name>
+      <description><![CDATA[SERVICE PAUSED UNTIL FURTHER NOTICE<br><br>On Street Support Group - hot food offer<br><br>Fridays, 5.30pm <br><br>On Street Support Group located on Gas street.<br><br>[Aug 24]]]></description>
+      <styleUrl>#icon-1502-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -1.9088734,52.4764067,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Homeless One</name>
+      <description><![CDATA[On Street Support Group<br>Hot food available<br><br>Monday - Sunday: 6 - 7pm<br><br>2 Lawley Middleway<br>Birmingham<br>B4 7XL<br><br>[May 25]]]></description>
+      <styleUrl>#icon-1502-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -1.8817881,52.485917,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Aston & Nechells Foodbank (St Matthews)]]></name>
+      <description><![CDATA[Mondays 12pm - 2:30pm <br>Trussell Trust referral voucher required<br><br>info@astonnechells.foodbank.org.uk<br>astonnechells.foodbank.org.uk<br>0121 359 0801 <br><br>Support includes:<br>- Money and Debt Advice; Support to Maximise Income and Lower/Manage Debts.<br>- Information and Guidance; Taking Support to the Next Level.<br>- Immediate Resources; Provision of Food, Clothing and Household Items.<br><br>63 Wardlow Road<br>Nechells<br>B7 4JH<br><br>[Jan 26] ]]></description>
+      <styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -1.8771657,52.4906449,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Aston & Nechells Foodbank (Salvation Army)]]></name>
+      <description><![CDATA[Fridays 12:30-2:30pm<br>Trussell Trust voucher referrals only<br><br>info@astonnechells.foodbank.org.uk<br>www.astonnechells.foodbank.org.uk<br>0121 359 0801 <br><br>Support includes:<br>- Money and Debt Advice; Support to Maximise Income and Lower/Manage Debts.<br>- Information and Guidance; Taking Support to the Next Level.<br>- Immediate Resources; Provision of Food, Clothing and Household Items.<br><br>Gladstone St<br>Aston<br>Birmingham<br>West Midlands<br>B6 7NY<br><br>[Jan 26] ]]></description>
+      <styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -1.8769028,52.5053096,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Birmingham Central Foodbank</name>
+      <description><![CDATA[Trussell Trust voucher referrals only <br><br>Tuesday 9:30- 11:15am<br>Fridays 10am - 1:15pm<br><br>info@birminghamcentral.foodbank.org.uk<br>https://birminghamcentral.foodbank.org.uk/locations/ <br>Vouchers can be collected from local organisations, including from St Basil’s Youth Hub or can be obtained by contacting the Citizens Advice Bureau for free on 0808 208 2138 <br> Fridays also have input from Trident Reach providing support looking for jobs etc.<br><br>Birmingham City Church - car park on Helena Street, B1 2AW<br><br>[Sep 25]]]></description>
+      <styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -1.91044460000001,52.48188,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Birmingham City Mission Resource Centre</name>
+      <description><![CDATA[Foodbank - referral only<br><br>Open Tuesday to Thursday, from 10am-4pm.<br>Must get in touch before hand for a referral. <br>0121 766 6603 (option 1)<br>resources@birminghamcitymission.co.uk  <br>https://www.birminghamcitymission.org.uk/providing-for-those-in-need/<br><br>Birmingham City Mission Resource Centre<br>The Clock Tower, 2 Langdon Street,<br>Birmingham B9 4BP<br><br>[Feb 26]]]></description>
+      <styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -1.8760675,52.4803087,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>As-Suffa Foodbank</name>
+      <description><![CDATA[Foodbank - referral by professional e.g. GP, School etc. or via a recognised referral partner organisation only<br><br>All our food parcels are sufficient to feed an average size family for one week. Our parcels include non-perishable goods like pasta, UHT milk, canned soups, etc.<br><br>Tuesday and Friday (Foodbank delivery of parcels). <br><br>Contact: Ruksana Begum, Community Coordinator<br>Email: Ruksana.Begum@as-suffa.org<br>Tel: +44 (0) 7521 163 741<br>Working hours<br>Tuesday and Thursday 9:30 -2:30<br>Wednesday 9:00- 2:00<br>Alternate contact: info@as-suffa.org; tel: 0121 285 2777<br>https://as-suffa.org/community/food-bank/<br><br>Address:<br> As-Suffa Institute,<br>156 High Street, <br>Birmingham<br>B6 4UX<br><br>[Feb 26]]]></description>
+      <styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -1.894159,52.498546,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Green Lane Masjid</name>
+      <description><![CDATA[Work on referral basis.<br><br>Mondays and Wednesday:<br>Monday 10am - 1:15pm, Wednesdays 10am - 4pm, break 12:30 - 1:15pm.<br><br>Call 0121 713 0080 or email<br>food.bank@greenlanemasjid.org in advance to find out requirements for a voucher.<br><br>One visit per fortnight.<br><br> https://www.greenlanemasjid.org/welfare-services/foodbank/ <br><br>[Dec 25]]]></description>
+      <styleUrl>#icon-1502-0F9D58-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -1.8642794,52.4729439,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[A Father's Child Services CIC]]></name>
+      <description><![CDATA[*Call/email first to check they are operational*<br><br>Monday to Friday - collection by appointment only. Delivery can be arranged for the vulnerable<br><br>Our online referral is to be completed, you can self refer:<br>https://www.afcscic.org/<br><br>Contact details:<br>services@afcscic.org<br>01213894922<br><br>69 Steward Street<br>Loft 305<br>Birmingham<br> B18 7AF<br><br>[Sep 25]]]></description>
+      <styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -1.9262039,52.4840268,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Handsworth Foodbank</name>
+      <description><![CDATA[Trussell Trust voucher referrals only<br><br>Thursdays 1-3pm<br><br>info@handsworthbirmingham.foodbank.org.uk 0121 507 0734 or 07483137356 <br>https://handsworthbirmingham.foodbank.org.uk<br><br> New Life Wesleyan Church<br>Milestone Lane (off Holyhead Road)<br>Handsworth<br>Birmingham<br>B21 0LA<br><br>[Jun 25]]]></description>
+      <styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -1.94475579999994,52.5050579,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Steps8 Foodbank</name>
+      <description><![CDATA[Our food parcel programme specifically caters for low-income families.<br>To provide a maximum of three parcels in any six-month period (exceptions can apply, referrals to be negotiated on an individual basis).<br><br>Please complete our initial form of interest so that we can contact you with more information and to answer any queries.<br>https://www.steps8.co.uk/foodbank<br><br>We aim to provide nutritionally balanced emergency food-aid for people in crisis, identified and referred. (exceptions can apply, referrals to be negotiated on an individual basis).<br>To signpost customers to other agencies appropriate to their needs, such as: Citizens Advice Bureau, housing departments, adult and communities services, Age Concern, Sure Start, probation services and other relevant community projects.<br>We aim to bring communities together to end hunger and poverty in the UK by providing compassionate, practical help with dignity whilst challenging inequality of food poverty.<br><br>Food Allergens:<br>Please be advised that your food parcel may contain these ingredients; Milk, Eggs, Wheat, Soybean, Peanuts, Tree nuts, Fish & Shellfish.<br><br>Anderton Park School, B12 8BL - Monday after school<br><br>St Ambrose Church - Thursday 2pm onwards<br><br>[Dec 25]]]></description>
+      <styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -1.8788265,52.4705905,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Time Out After School Club - Food Aid 
+</name>
+      <description><![CDATA[Foodbank - voucher needed/referral only<br><br>Wednesdays -10am-13:00pm<br><br>We run on a referral scheme, if the referee calls let us know who’s coming. We’ll email over a referral form the person will need to bring it with them. Bring proof of ID.<br><br>Contact:<br>Judith<br>timeoutafterschoolclub@hotmail.com<br>0121 328 3399<br><br>80 Nechells Park Road, Birmingham<br>B7 5PR<br><br>[Feb 26]]]></description>
+      <styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -1.8672954,52.4985832,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Love Your Neighbour Foodbank</name>
+      <description><![CDATA[Emergency Food parcels - referral only<br><br>Opening Hours: Wednesday 11 - 2pm<br>Delivery sometimes available<br><br>Able to offer doorstep deliveries to those who would struggle to visit the Foodbank in person. You need a voucher or a referral to access the food bank. You can get one from an agency or care professional, or contact the team on 0121 820 5618.<br><br>Address:<br>Gas Street St Luke’s<br>Great Colmore Street<br>Birmingham<br> B15 2AT<br><br>[Jan 24]]]></description>
+      <styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -1.9037936,52.4712253,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>West Bromwich Food Bank</name>
+      <description><![CDATA[Food bank - referral only<br><br>Opening Times:<br>Monday, 12pm - 2pm<br>Wednesday, 12pm - 2pm<br>Friday, 12pm - 2pm<br><br>Contact Keith for more information: <br>Tel: 0121 580 0068 <br>Email: keith@elimwestbrom.com<br>http://westbromwichfoodbank.com/ <br><br>Address:<br>West Bromwich Community Church<br>23 Victoria St<br>West Bromwich <br>B70 8EX<br><br>[Apr 26]]]></description>
+      <styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -1.9969278,52.5184098,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Birmingham Care Group (BCG) Food Pantry</name>
+      <description><![CDATA[Pantry/low cost food<br><br>Tuesday - Thursday 11am - 1pm<br><br>£15 annual membership<br>£5 per shop, max 2 shops per week per member.<br>Register membership in person at pantry.<br>Membership card will be given once registered and must be presented when attending pantry in order to shop<br>https://www.birminghamcaregroup.org/<br>For more information, please contact Rani Ramdeen on:<br>Rani@birminghamcaregroup.org<br>01215239690<br><br>Unit 5 Magreal Industrial Estate, B16 0QZ<br><br>Examples of food available, all subject to availability:<br>Fresh fruit & veg<br>Dairy products<br>Ready meals<br>Fresh & frozen meat & poultry - limited halal meat & fish<br>Fresh bread<br>Caribbean grocery items<br><br>Free Sanitary towels with each shop<br>Various toiletries & household products available subject to availability<br><br>[Sep 25]]]></description>
+      <styleUrl>#icon-1899-FFEA00-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -1.928384,52.4808202,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[The Community Shop - Love Your Neighbour (Gas Street St Luke's Church)]]></name>
+      <description><![CDATA[Thursdays 9am - 11am<br>Tickets sold from 8:30am. <br><br>To be eligible for The Community Shop you must live within a 1.6km radius of Gas Street St Luke’s Church building and be in receipt of means-tested benefits. To become a member visit www.gasstreet.church/communityshopmembership<br><br>£4.50 for items including meat and veg; free tea/coffee while you wait. <br>loveyourneighbour@gasstreet.church<br>0121 820 5618<br><br>Address:<br>Great Colmore St<br>Birmingham<br> B15 2AT<br><br>[Dec 25]]]></description>
+      <styleUrl>#icon-1899-FFEA00-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -1.9034557,52.4713691,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Nechells POD Food Pantry</name>
+      <description><![CDATA[Open access/no referral required<br><br>Thursdays 1-2pm<br><br>Open to all residents in B7 postcode and regular participants of Nechells POD.  Need proof of address from last 3 months. Need to bring own <br>*ID required on first visit*<br><br>£3 for up to £20 worth of shopping. Same family twice per month. <br><br>Income maximisation and welfare support also available<br><br>Contact:<br>Chantelle Henry<br>chantelle.henry@nechellspod.co.uk<br>0121 681 2173<br><br>Nechells POD, 28 Oliver Street, Nechells, Birmingham, B7 4NX<br><br>[Dec 25]]]></description>
+      <styleUrl>#icon-1899-FFEA00-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -1.8751618,52.4927271,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Birmingham Hope Community Pantry
+</name>
+      <description><![CDATA[Open Thursdays 10.30am - 12.30pm<br><br>For a small weekly subscription of £5, members of Hope Community pantry can purchased a weekly food shop worth £20 including fresh fruit and vegetables and family favourites to stock up the cupboard and fridge. To become a member, sign up via  https://churchpoverty.my.site.com/s/member-sign-up<br><br>Email: pantry@churchcentral.org.uk<br><br>Central House<br>13 Ravenhurst St<br>Highgate<br>B12 0HD<br><br>[Aug 25]]]></description>
+      <styleUrl>#icon-1899-FFEA00-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -1.8806059,52.469951,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Birmingham Oasis FaB Boulton Pantry</name>
+      <description><![CDATA[Wednesday: 8:45am - 1.30pm<br><br>Sign up to be a member of Your Local Pantry<br>https://www.yourlocalpantry.co.uk/join-a-pantry/<br><br>£6 for £35 worth of food and toiletries.<br><br>Also a warm welcome space with advocacy offered.<br><br>Contact:<br>Mark Gilmore<br>Email: Mark.Gilmore@oasisfoundry.org <br>Mobile: 07340 443 594<br>Carolyn Gilmore <br>Email: Carolyn.Gilmore@oasisfoundry.org <br>Mobile: 07866 818 207<br><br>Address<br>Birmingham Oasis FaB Boulton Pantry<br>Oasis Academy Boulton<br>Boulton Rd<br> B21 0RE<br><br>[Jan 26]]]></description>
+      <styleUrl>#icon-1899-FFEA00-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -1.938266,52.5016334,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Oasis FaB Foundry Pantry</name>
+      <description><![CDATA[Tuesdays 9am - 2pm<br><br>Warm welcome and advocacy 9am - 1:30pm<br> <br>£6 per week for £35 worth of food and toiletries.  sign up to be a member of Your Local Pantry: https://www.yourlocalpantry.co.uk/find-a-pantry/fab-foundry-pantry/ <br><br>Contact: <br>Mark Gilmore <br>Email: Mark.Gilmore@oasisfoundry.org <br>Mobile: 07340 443 594<br>Carolyn Gilmore <br>Email: Carolyn.Gilmore@oasisfoundry.org <br>Mobile: 07866 818 207<br><br>Birmingham FaB Foundry Pantry, Foundry School, 46 Foundry Rd, Birmingham, B18 4LP<br><br>[Jan 26]]]></description>
+      <styleUrl>#icon-1899-FFEA00-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -1.9414346,52.4944311,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Humanify Community Food Cupboard</name>
+      <description><![CDATA[*Run by Humanify and St Michael's C of E Primary Academy*<br><br>Pay £5 each shop and get £15-£20 worth of food<br><br>Register via this form: https://humanify.uk/community-food-cupboard/<br><br>Address<br>St. Michael's Primary School<br>Piers Rd<br> Birmingham <br>B21 0UX<br><br>[Feb 26]]]></description>
+      <styleUrl>#icon-1899-FFEA00-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -1.9248347,52.5004352,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[St Michael's CE Primary Community Hub]]></name>
+      <description><![CDATA[Warm welcome with food pantry - see "Humanify Community Food Cupboard" for more details.<br><br>Opening hours:<br>Monday - Friday 8:30am - 12pm <br><br>Contact: thehub@stmichaelsb21.bdmat.org.uk<br><br>For a timetable of activities, please follow this link: https://stmichaelsb21.bdmat.org.uk/community-hub/<br><br>Services:<br>Accessible entrance<br>Free Wi-fi<br>Free use of computers<br>Refreshments such as hot drinks, cordial and biscuits<br>Food Pantry<br>Book borrowing/swap<br>Laundry facilities<br>Toilets including baby changing facilities<br><br>Address:<br>Orchard Community Hub @ St. Michael's CE Primary Academy<br>Handsworth<br>Birmingham<br>B21 0UX<br><br>[Mar 26]]]></description>
+      <styleUrl>#icon-1577-F57C00-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -1.9249742,52.5006017,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Oasis Community Hub Benson
+</name>
+      <description><![CDATA[Warm welcome without food offer<br><br>Opening hours<br>Thursday, 8:45am to 1pm<br><br>Services<br>Accessible entrance<br>Free Wi-fi<br>Charging facilities for phones and other devices<br>Refreshments such as hot drinks, cordial and biscuits<br>Toilets including accessible toilets and baby changing facilities<br>Activities and play equipment<br><br>Contact<br>Phone: 07866 818207<br>Email: carolyn.gilmore@oasisfoundry.org<br><br>Address<br>Benson Road,<br>Hockley,<br>B18 5TD<br><br>[Jan 26]]]></description>
+      <styleUrl>#icon-1603-9C27B0-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -1.9304496,52.4977902,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>North Smethwick Development Trust</name>
+      <description><![CDATA[Warm welcome without food offer<br><br>Brasshouse Community Centre hours:<br>Monday - Friday 08:00 - 21:00<br>Saturday - Sunday 09:00 - 14:00<br><br>Activities:<br>- Stay & Play: Mondays 10am - 11:30am<br>- Knit & Natter: Wednesdays 9:30am - 11:30am<br>- Sip & Chat: Fridays 10am - 12pm<br><br>For other activities, please see the website: https://nsdt.org.uk/?post_type=tribe_events&eventDisplay=month <br><br>Contact for more info:<br>Phone: 0121 555 5672<br>Email: info@nsdt.org.uk<br><br>Address: <br>Brasshouse Lane<br> Smethwick<br> B66 1BA<br>*For Sat Nav Users, please use post code B66 1BQ*<br><br>[May 26]]]></description>
+      <styleUrl>#icon-1603-9C27B0-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -1.9701608,52.5004363,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ladywood Leisure Centre</name>
+      <description><![CDATA[Warm hub without food offer<br><br>Opening hours:<br>Monday to Sunday, Midday - 2pm<br><br>Monday fortnightly 1pm - 3pm, Arts Crafts for adults with disabilities<br>Tuesday, 10am - midday, Ladies mental health workshop<br>Wednesday, 9:30am - 4:30pm, Adult Social care drop-in<br>First Thursday of month, 1:30pm - 2:30pm, Diabetes support group<br>Thursday, 11am - 1pm, Men's Table Tennis (term time only)<br>Thursday 10:30am -12:30pm, Over 50s friendship group<br>Last Thursday of the month 1:30pm - 2:30pm, Dementia Carers Support group<br>Friday, 9am - 2:30pm, Occupational Therapy drop-in<br><br>Contact:<br>0330 109 9150<br><br>Services/Amenities<br>Accessible entrance<br>Free Wi-Fi<br>Work stations<br>Refreshments such as hot drinks, cordials, and biscuits<br>Entertainment (television)<br>Shower facilities<br>Toilets, including accessible toilets and baby-changing facilities<br>Car Parking<br>Activities<br><br>Ladywood Middleway,<br>Ladywood,<br>Birmingham,<br>B16 8TR<br><br>[Apr 26]]]></description>
+      <styleUrl>#icon-1603-9C27B0-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -1.9273993,52.4789362,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Aquarius Action Projects (Evolve)
+</name>
+      <description><![CDATA[Warm hub with food offer<br><br>Opening times:<br>Friday: 9am - Midday<br><br>•	Free Wi-fi<br>•	Charging facilities for phones and other devices<br>•	Hot drinks, cordial and biscuits<br>•	Magazines<br>•	Toilets•	<br><br>Contact:<br>0121 622 8181<br>evolve@aquarius.org.uk<br><br>The Adam and Eve, <br>201 Bradford Street, <br>Digbeth,<br>Bordesley & Highgate, Birmingham, <br>B12 0JD]]></description>
+      <styleUrl>#icon-1577-F57C00-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -1.8803312,52.4715006,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>BID Services</name>
+      <description><![CDATA[Warm hub without food offer<br><br>Opening hours<br><br>Monday drop in sessions.<br>Friday, 10am to 4pm<br><br>Community Day - a range of activities taking place every week, please see below for details.<br><br>11am – 1pm: Deaf Chat in the café area.<br><br>1pm – 3pm: Various activities every week including arts and crafts, dance, makeup and exercise classes.<br><br>2:30pm – 4pm: Let’s Chat group for hard of hearing people.<br><br>Please contact us to find out more about our Community Day or if you are interested in joining one of the groups.<br><br>Text/FaceTime/call Kim on 07561 682788<br>Email: community@bid.org.uk<br>https://www.bid.org.uk/services/birmingham-advice-support-service/<br><br>Services<br>Accessible entrance<br>Free Wi-Fi<br>Charging facilities for phones and other devices<br>Refreshments such as hot drinks, cordials, and biscuits<br>Toilets, including accessible toilets and baby-changing facilities<br><br>Deaf Cultural Centre,<br>Ladywood Road,<br>Birmingham,<br>B16 8SZ<br><br>[June 25]]]></description>
+      <styleUrl>#icon-1603-9C27B0-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -1.9258453,52.4757517,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New Bell FC Homeless Outreach</name>
+      <description><![CDATA[On Street Support Group<br><br>Saturdays, 6pm - 8pm<br><br>1 Victoria Square, B1 1BD<br><br>[Aug 24]]]></description>
+      <styleUrl>#icon-1502-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -1.9029254,52.479313,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Highfield Hall Community Association Homeless Outreach</name>
+      <description><![CDATA[Every Wednesday 6:30pm - 8pm opposite Moor Street Station<br><br>Hot cooked vegetarian meals.<br><br>[Feb 25]]]></description>
+      <styleUrl>#icon-1502-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -1.8921802,52.4788157,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Growbaby City Centre by Birmingham Vineyard Church</name>
+      <description><![CDATA[Baby and under 5's items bank.<br><br>Drop In: Wednesdays (during term-time) 10:30am - 12:30pm<br><br>To check if we have specific items in stock, message: 07492233654<br><br>For more frequent updates, check out https://www.facebook.com/growbabybrum/<br><br>Emergency food parcels also available for families accessing Growbaby. Message us during opening hours to check whether we have what you need.<br><br>174 - 178 Barford Street<br>Digbeth<br>B5 7EP<br><br>[Feb 26]]]></description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -1.8926478,52.4701267,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Birmingham Vineyard Church Stay and Play</name>
+      <description><![CDATA[Warm welcome without food offer<br><br>Fridays 10:00 - 11:30am<br><br>Parents & carers of children 5 and under are also welcome to join us on Fridays during term time for activities, craft, snacks, songs and fun! There is no cost, and no need to register in advance- just show up!<br><br>Contact Lauren Morris:  laurenm@birminghamvineyard.com<br><br> Address:<br>174 Barford Street<br> Digbeth<br> B5 7EP<br><br>[Mar 26]]]></description>
+      <styleUrl>#icon-1603-9C27B0-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -1.8925942,52.4703751,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Birmingham Vineyard Church Bags of Hope</name>
+      <description><![CDATA[A food provision for agencies and social services - If you are an agency worker enquiring about emergency food assistance for a client, please contact the foodbank team on: <br>bagsofhope@birminghamvineyard.com<br><br>We only operate on office times (9am - 5pm) on weekdays but if it is an emergency, we can give out after a service on Sunday.<br><br>If you are an individual in need of emergency food assistance, or if you have a support worker of any kind, they are the best place to go first as we provide our food parcels to agencies to give out. If they cannot help you, in some cases we are able to provide emergency food parcels. Contact the Bag of Hope team to see if there is availability: bagsofhope@birminghamvineyard.com<br><br>[Jan 26] ]]></description>
+      <styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -1.8924547,52.4701594,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>West Bromwich Community Church</name>
+      <description><![CDATA[Warm hub with food offer<br><br>Senior Citizens Lunch Club - Tuesdays 12 - 1.30pm<br><br>Facilities<br>Wheelchair Accessible<br>Toilets, including disabled<br><br>Contact  0121 580 0068]]></description>
+      <styleUrl>#icon-1577-F57C00-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -1.9969278,52.5184098,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Life Food Aid @ Deeper Life Bible Church</name>
+      <description><![CDATA[Food bank - open access, no voucher or referral needed.<br><br>Opening hours:<br>Sunday anytime from 9.30am. During Easter holidays, open Fri - Sun<br><br>Contact<br>07838 199141 or 07405 143852 or pastorkenny@deeperlife-birmingham.org<br><br>Address<br>86-95 Bacchus Road,<br>Winson Green,<br>Birmingham,<br>B18 4QP<br><br>[Feb 26]]]></description>
+      <styleUrl>#icon-1502-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -1.9323616,52.4996136,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Rayon Wallace Helping Hand Foodbank</name>
+      <description><![CDATA[Food bank - open access, no referrals/voucher required<br><br>Open:<br>Wednesday Foodbank 10:30- 12:30pm<br>Saturday Foodbank 10:30- 12:30pm<br><br>For more information contact:<br>07876 590202 or 07828 853319<br>or rayonwallacehelpinghand@outlook.com<br><br>https://www.facebook.com/profile.php?id=100089847562165<br><br>Address:<br>Calvary Church of God In Christ<br>1 Burlington Street<br>Aston<br>Birmingham<br>B6 4UB<br><br>[Feb 25]]]></description>
+      <styleUrl>#icon-1502-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -1.8927417,52.4983881,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Soho Community Hall</name>
+      <description><![CDATA[Warm hub with food offer<br>This warm welcome mainly supports those from the Afro-Caribbean community<br><br>Opening hours<br>Monday, 11am to 2pm, this session is mainly for families<br>Tuesday, 11am to 3pm, this session is for over 55s - warm meal<br><br>Contact<br>07708 114 497 or sohocommunityhallassociation48@gmail.com<br><br>Services<br>Accessible entrance<br>Charging facilities for phones and other devices<br>Refreshments such as hot drinks, cordials, and biscuits<br>Toilets, including accessible toilets and baby-changing facilities<br><br>Address<br>48 Chapel St,<br>Handsworth,<br>Birmingham,<br>B21 0PA<br><br>[Feb 26]]]></description>
+      <styleUrl>#icon-1577-F57C00-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -1.9462085,52.5016233,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The Life and Light Community Place of Welcome</name>
+      <description><![CDATA[Warm hub with food offer<br><br>Opening hours<br>Wednesdays, 10.30am to 1pm<br><br>Services<br>Free Wi-Fi<br>Free use of computers and other devices<br>Charging facilities for phones and other devices<br>Work stations<br>Refreshments such as hot drinks, cordials, and biscuits<br>Food bank<br>Entertainment (television)<br>Library facilities<br>Toilets<br>Activities such as playing games, knitting, baking, zumba classes, arts and crafts, flower arranging, computer class, benefits advice, coffee morning<br><br>Contact<br>0121 554 8550 or lifeandlight@btconnect.com<br><br>Address<br>46 Nineveh Road,<br>Handsworth,<br>Birmingham,<br>B21 0TT<br><br>[Jun 25]]]></description>
+      <styleUrl>#icon-1577-F57C00-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -1.9328042,52.5012591,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The Ujima Partnership</name>
+      <description><![CDATA[Warm hub with food offer<br><br>Opening hours<br>Friday from 10am to 1pm<br><br>Offer advice & guidance as well as support with debt by offering support with utilities as well as offering food vouchers. Groups for over 50s such as dominoes. <br><br>Services<br>Accessible entrance<br>Free Wi-Fi<br>Charging facilities for phones and other devices<br>Refreshments such as hot drinks, cordials, and biscuits<br>Toilets, including accessible toilets<br>Somewhere to park your car<br>Activities such as exercise, bingo, quizzes and games<br><br>Contact<br>07842 349909 or jenny.mack@live.co.uk<br><br>Address<br>Afro Caribbean Millennium Centre<br>339 Dudley Road,<br>Birmingham,<br>B18 4HB<br><br>[June 24]]]></description>
+      <styleUrl>#icon-1577-F57C00-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -1.9434645,52.4868624,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hope Community Church by Churchcentral
+</name>
+      <description><![CDATA[Warm hub with pantry - see 'Birmingham Hope Community Pantry' for more details<br><br>Opening days and times<br>> Stay and Play Thursdays, term time only, 9am - 11am. A range of toys, books, conversation, refreshments and snacks is available.<br>> Free ESOL classes, Thursdays 9am and 11.30 am - contact 07828679679 to find out more<br>> Men's Drop in, Fridays 10 - 11am. Come for English-speaking practice, advice for UK life, conversation and friendship.<br><br>Contact office@churchcentral.org.uk to find out more.<br><br>Services/Amenities<br>Accessible entrance<br>Free Wi-Fi<br>Charging facilities for phones and other devices<br>Refreshments such as hot drinks, cordials, and biscuits<br>Toilets, including accessible toilets and baby-changing facilities<br>Somewhere to park your car<br><br>Central House<br>13 Ravenhurst St<br>Highgate<br>Birmingham<br>B12 0HD<br><br>[Aug 25]]]></description>
+      <styleUrl>#icon-1577-F57C00-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -1.8806059,52.469951,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The Golden Agers Club @ Nechells Outreach Centre
+</name>
+      <description><![CDATA[Over 50s Warm welcome without food offer<br><br>Opening hours<br>Mondays 11am - 3pm<br><br> [May 25]]]></description>
+      <styleUrl>#icon-1603-9C27B0-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -1.8667392,52.5027013,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Karis Baby Bank</name>
+      <description><![CDATA[Baby Bank - referral only, appointment only for collection on Friday afternoon<br><br>For families with babies and infants who are facing hardship and/or crisis which means they need help with essentials for their baby. This provision is based on referrals from other organisations and groups who are well placed to assess the need and identify what items families need, this includes social workers, children’s centres, health workers and other charities.<br><br>For more information, call main office on <br>0121 455 7524 or email babybank@karisneighbourscheme.org<br><br><br>Address<br>c/o Church of the Redeemer<br> Parker Street (off Monument Road)<br> Monument Rd<br> B16 8UU<br><br>[Feb 26]]]></description>
+      <styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -1.9320057,52.4729819,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kingdom Life Apostolic Chapel Food Bank</name>
+      <description><![CDATA[Open access - no referral/voucher required<br><br>Opening days and times:<br>Friday 10:30am - 12:30pm<br><br>Contact: Pastor Paul Akinpelu<br>Mob: 07912521862<br>Email: pakinpelu@yahoo.co.uk<br><br>Address:<br>Kingdom Life Apostolic Chapel<br>Birmingham Street<br>Oldbury<br> B69 4DY<br><br>[Dec 25]]]></description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -2.0143319,52.5031967,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Highways and Byways</name>
+      <description><![CDATA[On street homeless support group. Free hot meals and drinks<br><br>Days and times of operations vary but mainly Fridays. <br><br>Drive around Handsworth, Edgbaston, Newtown and Aston.<br><br>[Aug 24]]]></description>
+      <styleUrl>#icon-1502-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -1.9059655,52.483457,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Reach Out Birmingham</name>
+      <description><![CDATA[Free food, open access on street support group<br><br>Every other Saturday 12pm - 4pm<br>Walk about city centre with starting point Digbeth Coach station<br>Hot meals, hot and cold drinks and snacks available. Also distribute clothing and toiletries.<br><br>[Jan 26]]]></description>
+      <styleUrl>#icon-1502-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -1.887537,52.4750639,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Your Money Your Way Pantry</name>
+      <description><![CDATA[Every Wednesday 11am - 1:30pm<br><br>Pay £5.00 for  a small bag, £7.00 for large bag of shopping<br><br>Contact: Marsha Russell<br>Telephone: 01217149803 <br>Mob: 077372 17259<br>Email: info@ymyw.co.uk<br><br>Address<br>City Road Methodist Church (Extension),<br> B18 0NL<br>(Entrance is on Selwyn road, via car park next to Wesley Court)<br><br>[Dec 25]]]></description>
+      <styleUrl>#icon-1899-FFEA00-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -1.9452112,52.4836587,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Your Money Your Way CIC</name>
+      <description><![CDATA[Community Café  - Every Tuesday 11:30 am - 2:30pm<br><br>Pay As You Feel<br><br>- Doors open | 11:30am<br>- Dinner served | 12 - 2:00pm<br>- Doors close | 2:30pm<br><br>Contact: Marsha Russell<br>Telephone: 01217149803 <br>Mob: 077372 17259<br>Email: info@ymyw.co.uk<br><br>OTHER SERVICES<br>Support includes:<br>- Money and Debt Support to Maximise Income and Lower/Manage Debts.<br>- Information and Guidance; Taking Welfare Support to the Next Level.<br>- Immediate Resources; Provision of Food, Clothing and Household Items<br>- Group Activity sessions<br><br>Address<br>City Road Methodist Church (Extension) <br>B18 0NL.<br>(Entrance is on Selwyn road, via car park next to Wesley Court)<br><br>[Dec 25]]]></description>
+      <styleUrl>#icon-1899-FF5252-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -1.9453399,52.48343,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[grounded. St Paul's]]></name>
+      <description><![CDATA[Warm hub with limited cafe<br><br>Opening times:<br>Monday - Friday, 8:30am - 3:30pm<br><br>Monday and Fridays Cafe 8:30 - 6pm<br>Tuesdays - Thursdays 8:30am- 3:30pm<br><br>https://groundedcafe.co.uk/st-pauls/<br><br>grounded. St Pauls is a community focussed wellbeing café and therapy hub, offering a comfortable, accessible and inclusive space to visit for coffee and talking therapies. Offer workshops on a Pay As You Please basis.<br><br>Email: birmingham@groundedcafe.co.uk<br>Phone: 0121 663 6156<br><br>Address:<br>55 St Pauls Square<br>Birmingham<br>B3 1QS<br><br>[Dec 25]]]></description>
+      <styleUrl>#icon-1603-9C27B0-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -1.9060635,52.4845212,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Camp Hill Seventh-day Adventist Church Food Bank</name>
+      <description><![CDATA[Food bank open access - no referral or voucher needed.<br><br>Opening hours:<br>1st and 3rd Sunday of the month 10am - 1pm<br>4th Sunday - Breakfast 10am -11:15am - no food bank parcels.<br><br>Contact details:<br>Tel: 07955 719393<br>Email: CHSDAFoodbank@gmail.com<br><br>Address:<br>Stratford Road<br>Birmingham<br> B12 0JP<br><br>[Dec 25]]]></description>
+      <styleUrl>#icon-1502-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -1.878305,52.4696852,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Church of God Of Prophecy</name>
+      <description><![CDATA[Homeless Social Action Group<br><br>1st Tuesday of the month 5:45pm - 7:30pm<br><br>Located by the Law Courts<br><br>[Feb 25]]]></description>
+      <styleUrl>#icon-1502-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -1.8927768,52.4834825,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The Golden Agers Aberdeen St Church of God of Prophecy</name>
+      <description><![CDATA[Warm welcome<br><br>Thursdays 11am - 3pm<br><br>£5 for 3 course meal<br><br>[May 25]]]></description>
+      <styleUrl>#icon-1577-F57C00-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -1.9376983,52.4895985,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ladywood Children’s Centre</name>
+      <description><![CDATA[Warm welcome without food offer.<br><br>Opening hours<br>Friday 9:30am - 11:30am<br><br>Contact<br>Phone: 07738 119 605<br>Email: anila.mushtaq@barnardos.org.uk<br><br>Services<br>Accessible entrance<br>Free Wi-Fi<br>Charging facilities for phones and other devices<br>Refreshments such as hot drinks, cordials, and biscuits<br>Toilets, including accessible toilets and baby-changing facilities<br>Children's play equipment<br><br>[Jul 25]]]></description>
+      <styleUrl>#icon-1603-9C27B0-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -1.9293394,52.4732286,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Inside-2-Out CIC</name>
+      <description><![CDATA[On Street Support Group<br><br>[Aug 25]]]></description>
+      <styleUrl>#icon-1502-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -1.8936791,52.4768529,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KMAB/Masjid Al Falaah Homeless Outreach</name>
+      <description><![CDATA[On Street Support Group <br><br>Friday and Saturday 6:45pm - 7:45pm in partnership with As-Suffa Outreach.<br><br>Arch 22, Lionel Street, Birmingham B3 1AQ<br><br>[Feb 25]]]></description>
+      <styleUrl>#icon-1502-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -1.9016946,52.4850943,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Dream Chaser Youth Club</name>
+      <description><![CDATA[Warm welcome without food offer<br><br>Opening hours:<br>Monday to Friday, 9am - 5pm<br>Saturday, 4pm - 9pm<br><br>LADIES COMMUNITY HUB COFFEE MORNINGS<br>EVERY WEDNESDAY | 10 AM - 12 PM<br><br>ONCE A MONTH ON THURSDAY | 10AM - 12PM: We also offer a distinct coffee morning session once a month, specifically designed for moms with special needs. This intimate gathering provides a supportive space for moms facing unique challenges to connect, unwind, and share their experiences.<br><br>Contact<br>Phone: 0121 773 5493<br>Email: info@dreamchaseryouthclub.co.uk<br>https://www.dreamchaseryouthclub.co.uk/<br><br>Services<br>Accessible entrance<br>Free Wi-fi<br>Free devices to use<br>Free use of computers<br>Charging facilities for phones and other devices<br>Hot drinks, cordial and biscuits<br>Toilets<br><br>47 Green Lane,<br>Small Heath,<br>Birmingham,<br>B9 5BU<br><br>[Sep 25]]]></description>
+      <styleUrl>#icon-1603-9C27B0-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -1.8628362,52.4728088,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MLK Multi-faith Centre @ Aston University
+</name>
+      <description><![CDATA[Warm welcome without food offer<br>*Open to students and staff of Aston University only*<br><br>Opening hours<br>Wednesday, 3 - 5pm.<br><br>Contact:<br>Phone: 07749 412021<br>Email: s.ewell@aston.ac.uk<br><br>Website: https://www.aston.ac.uk/current-students/health-and-wellbeing/chaplaincy<br><br>Services<br>Accessible entrance<br>Free Wi-fi<br>Charging facilities for phones and other devices<br>Refreshments such as hot drinks, cordial and biscuits<br>Library corner/facilities<br>Toilets<br>Activities including board games<br>Outdoor spaces/activities<br><br>Address:<br>James Watt Building<br>Aston Village<br>Birmingham<br>B4 7EQ<br><br>[Nov 25]]]></description>
+      <styleUrl>#icon-1603-9C27B0-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -1.8885755,52.4852494,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ladywood Community Project</name>
+      <description><![CDATA[Wrigglers Stay 'n' Play for 0 - 5 <br>Monday mornings at 10am - 11.45am (term-time only<br><br>For more information about attending Wrigglers play n stay group please call: 0121 740 0033<br><br>Address:<br>Unitarian New Meeting<br>31 Ryland St<br> Edgbaston<br> Birmingham <br>B16 8BL<br><br>[Oct 25]]]></description>
+      <styleUrl>#icon-1603-9C27B0-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -1.9181227,52.4750247,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ladywood Foodbank</name>
+      <description><![CDATA[Please call us on 07767152291 if you require advice, food parcels or even when making a donation. Call line to make appointments to collect food parcel is open 10am - 5pm Monday - Thursday, 10am - 12pm on Fridays: lwfoodbanklabouroflove@ymail.com<br><br>Ladywood Seventh-Day Adventist Church<br>13 Guild Close<br>St. Vincent Street West<br>B16 8RP<br><br>[Oct 25]]]></description>
+      <styleUrl>#icon-1502-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -1.922743,52.478029,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[St Patrick's RC Church]]></name>
+      <description><![CDATA[Warm welcome without food offer<br><br>Opening hours:<br>Saturday, 4:00- 6:00pm<br><br>Contact<br>Phone: 0121 454 0418<br>Email: stpatrick.bham@rcaob.org.uk<br><br>Services<br>Accessible entrance<br>Free Wi-fi<br>Charging facilities for phones and other devices<br>Refreshments such as hot drinks, cordial and biscuits<br>Magazines<br>Newspapers<br>Book borrowing/swap<br>Toilets including baby-changing facilities<br>Activities<br>Outdoor spaces <br>Car parking<br><br>Address<br>106 Dudley Rd<br>Birmingham<br>B18 7QN<br><br>[Nov 25]]]></description>
+      <styleUrl>#icon-1603-9C27B0-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -1.9322127,52.4866459,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Harmony Nexus Hub CIC</name>
+      <description><![CDATA[Warm welcome without food offer<br><br>Opening hours:<br>Coffee mornings Thursdays 10am - 12pm<br><br>Contact:<br>☎ Telephone: 07947628282 (WhatsApp and SMS ONLY) No calls<br>📧 Email: info@harmonynexushub.com<br><br>Address:<br>43-51 Whitmore Road<br> Birmingham<br> B10 0NR<br><br>[Dec 25]]]></description>
+      <styleUrl>#icon-1603-9C27B0-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -1.8632905,52.4699476,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New Life Wesleyan Church</name>
+      <description><![CDATA[Warm welcome with food offer<br><br>Opening hours: Tuesday 12 - 2pm<br><br>Also have benefits and housing advice.<br><br>Contact:<br>Phone: 0121 507 0734<br>Email: margaretdaley54@gmail.com or secretaryhandsworth@wesleyanchurch.org.uk<br><br>Website: https://wesleyanchurch.org.uk<br><br>Services<br>- Accessible entrance<br>- Charging facilities for phones and other devices<br>- Hot drinks, cordial and biscuits<br>- Warm food<br>- Toilets including accessible toilets<br><br>Address<br>New Life Wesleyan Church<br>Holyhead Road<br>Handsworth<br>B21 0LA<br><br>[Nov 25]]]></description>
+      <styleUrl>#icon-1577-F57C00-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -1.9447376,52.5051227,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The Zawiya Trust 
+</name>
+      <description><![CDATA[Food parcels for those in need.<br><br>Opening hours:<br>Saturday and Sundays<br><br>Contact Nasaar:<br>Mob: 07398 100725 <br>Email: nasaar@thezawiya.co.uk<br><br>Address:<br>19 Jenkins Street<br> Small Heath<br>Birmingham<br>B10 0QH<br><br>[May 26]]]></description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -1.8645096,52.471129,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Smethwick Jamia Masjid Food bank</name>
+      <description><![CDATA[Open access - no referral or voucher required.<br><br>Every Sunday - timings TBC.<br><br>[Dec 25]]]></description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -1.9580463,52.4897532,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ISTB Love Food Project
+</name>
+      <description><![CDATA[Food bank - open access/ no referrals or voucher required.<br><br>Opening hours:<br>Mondays  5pm, Thursday 9pm, Sunday 6pm<br><br>Contact Mike<br>Tel: 07946220790<br>Email: csmcflamepentecostaluk@gmail.com<br><br>Address:<br>CSMC FLAME PENTECOSTAL CHURCH<br>Unit 5, 276 Monument road, B16 8XF (entry is through Reservoir Road)<br><br>[Feb 26]]]></description>
+      <styleUrl>#icon-1502-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -1.9289841,52.4763203,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Armada FC Community Food Parcel Service</name>
+      <description><![CDATA[Food bank - open access/no voucher or referral required.<br><br>Open 7 days a week<br><br>We deliver across the Birmingham region – book your delivery slot today: https://forms.gle/zT7zvGGr2YEXAy8q8<br><br>Armada FC provides free food parcels to individuals and families across Birmingham, ensuring no one goes without essentials. Our service includes a home delivery option, with priority given to people who are wheelchair dependent or have medical conditions that make it difficult to collect food supplies in person.<br>There is no judgment – only support. Whether it’s for you or a loved one, Armada FC is here to help make life a little easier.<br><br>Contact Shahid Khan<br>- Email: info@armadafc.co.uk<br>- Mob: 07400331233<br><br>www.armadafc.co.uk<br><br>Address:<br>Calthorpe Pavilion<br>257 Edward Road<br> Birmingham<br> B12 9LF<br><br>[Jan 26]]]></description>
+      <styleUrl>#icon-1502-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -1.899508,52.4593476,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WhatsOn Databank @ EthyOn
+</name>
+      <description><![CDATA[Warm welcome hub with food offer<br><br>Open Monday to Saturday, 8am till 4pm<br><br>Various activities. Fairtrade Coffee for£2. <br><br>Contact Setsu Adachi: ethyon@whatson.uk.com<br><br>Address:<br>13A Cannon Street <br>Birmingham<br> B2 5EN<br><br>[Jan 26]]]></description>
+      <styleUrl>#icon-1502-F57C00-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -1.8975256,52.4800799,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Churches Soup Run Crossroads Shadwell Street</name>
+      <description><![CDATA[On Street Support Group - open access<br><br>Sundays 5:30pm - 6:45pm<br><br>[Jan 26]]]></description>
+      <styleUrl>#icon-1502-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -1.8991477,52.4858834,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tabor Living - Companions of the order of Malta café
+</name>
+      <description><![CDATA[Warm welcome with food offer<br><br>3rd Tuesday of month 18.00 - 20.00 <br><br>Contact Caroline Gorman <br>Mob: 07738884426<br>Email: carolinegorman@fatherhudsons.org.uk<br><br>Address:<br>St Catherine of Siena (catholic church) Bristol street B5 7BE<br><br>[Feb 26] ]]></description>
+      <styleUrl>#icon-1577-F57C00-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -1.9003911,52.4725684,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Food Share @ Moseley Wesleyan Holiness Church</name>
+      <description><![CDATA[Free hot meals<br><br>Every Wednesday 10.30am - 1pm<br><br>For more info, call 0121 440 5710 or email info@moseleywesleyan.org<br><br>https://wesleyanchurch.org.uk/project/moseley/<br><br>Address:<br>27 Cromer Road<br> Balsall Heath<br>Birmingham<br>B12 9QT<br><br>[Jan 26]]]></description>
+      <styleUrl>#icon-1899-FF5252-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -1.8895202,52.4544031,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The Salvation Army Aston 614 </name>
+      <description><![CDATA[Warm hub for young people and families<br><br>Opening times: <br>Monday: <br>- Dementia Cafe 12pm - 2pm: appointment only<br>- Secondary drop in (School Yrs 7 - 11): 4pm - 5:30pm<br>- Olders drop in (ages 18 - 25): 5:30pm - 7pm<br>Tuesday:<br>- School Arts Award & Mentoring: 11am - 3pm<br>- Football with Sports For Kids (School Yrs 3 - 8): 5:30pm - 7pm<br><br>https://www.facebook.com/Aston614/<br><br>Contact info<br>Tel: 0121 327 2974<br>Email: karac.boldick@salvationarmy.org.uk<br><br>Address:<br>Gladstone Street<br>Aston<br>B6 7NY<br>United Kingdom<br><br>[Apr 26]]]></description>
+      <styleUrl>#icon-1603-9C27B0-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -1.8771999,52.5052093,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Soho Children's Centre]]></name>
+      <description><![CDATA[Warm welcome without food offer<br><br>Fridays 9:30am - 11:30am<br><br>Contact: <br>0121 454 6633<br>Ladywoodcc@barnados.org.uk<br><br>Services<br>Accessible entrance<br>Free Wi-Fi<br>Charging facilities for phones and other devices<br>Refreshments such as hot drinks, cordials, and biscuits<br>Toilets, including accessible toilets and baby-changing facilities<br>Children's play equipment<br><br>21 Louise Road<br>Handsworth<br>B21 0RY<br><br>[May 26]]]></description>
+      <styleUrl>#icon-1603-9C27B0-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -1.9358631,52.5011121,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Veolia Household Recycling Centre Perry Barr</name>
+      <description><![CDATA[Holford Drive, B42 2TU <br>Monday to Friday: 7:00am to 9:00pm <br>Saturday and Sunday: 8:00am to 6:00pm]]></description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -1.8916052,52.5222145,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Veolia Household Recycling Centre Sutton Coldfield</name>
+      <description><![CDATA[Norris Way, B75 7BB <br>Monday to Friday: 7:00am to 9:00pm <br>Saturday and Sunday: 8:00am to 6:00pm]]></description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -1.8151097,52.5625751,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Veolia Household Recycling Centre Castle Bromwich</name>
+      <description><![CDATA[Tameside Drive, B35 7AG <br>Monday to Friday: 7:00am to 9:00pm <br>Saturday and Sunday: 8:00am to 6:00pm<br><br>Car users do not need to book a slot at Castle Bromwich HRC as the booking system is temporarily turned off. However, if you are a resident with a van, you still need to book a slot to use the site.]]></description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -1.7855534,52.511209,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Veolia Household Recycling Centre Tyseley & Energy Recovery Facility]]></name>
+      <description><![CDATA[Tyseley<br><br>James Road, B11 2BA <br>Monday to Friday: 7:00am to 9:00pm <br>Saturday and Sunday: 8:00am to 6:00pm]]></description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -1.8431067,52.4605102,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Veolia Household Recycling Centre Kings Norton</name>
+      <description><![CDATA[Lifford Lane, B30 3JJ <br>Monday to Friday: 7:00am to 9:00pm <br>Saturday and Sunday: 8:00am to 6:00pm]]></description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -1.9187518,52.4164668,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Armada FC Community Fridge
+</name>
+      <description><![CDATA[Fridge Type<br>Open to the public<br><br>Divider<br>Opening Hours<br>Opening Hours<br>Open today from 3:00pm to 6:00pm<br><br>Monday<br><br>12:00 - 15:00<br><br>Tuesday<br><br>12:00 - 15:00<br><br>Wednesday<br><br>Closed<br><br>Thursday<br><br>15:00 - 18:00<br><br>Friday<br><br>12:00 - 15:00<br><br>Saturday<br><br>Closed<br><br>Sunday<br><br>Closed<br><br>Divider<br>Food Available<br>Food Available<br>Fresh produce<br><br>Frozen food<br><br>Divider<br>Services<br>Services<br>Food redistribution<br><br>Community events<br><br>Many of our community fridges offer additional services. Please check with the fridge directly to see what services they offer.<br><br>Divider<br>Accessibility<br>Accessibility<br>Wheelchair accessible<br><br>Divider<br>Volunteers<br>Volunteers<br>Currently accepting volunteers]]></description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -1.8986066,52.4584935,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Moseley Community Fridge</name>
+      <description><![CDATA[Fridge Type<br>Open to the public<br><br>Divider<br>Opening Hours<br>Opening Hours<br>We're still gathering opening times. Please contact the fridge directly for their opening times.<br><br>Divider<br>Food Available<br>Food Available<br>Fresh produce<br><br>Cupboard items<br><br>Divider<br>Services<br>Services<br>Many of our community fridges offer additional services. Please check with the fridge directly to see what services they offer.<br><br>Divider<br>Accessibility<br>Accessibility<br>We're still gathering accessibility details. Please contact the fridge directly for more information.<br><br>Divider<br>Volunteers<br>Volunteers<br>We're unsure if this fridge is currently accepting volunteers. Please contact the fridge directly.]]></description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -1.8889001,52.4459329,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Dottie's Community Fridge]]></name>
+      <description><![CDATA[Fridge Type<br>Open to the public<br><br>Divider<br>Opening Hours<br>Opening Hours<br>Open today from 12:00pm to 3:00pm<br><br>Monday<br><br>Closed<br><br>Tuesday<br><br>12:00 - 14:00<br><br>Wednesday<br><br>9:30 - 12:00<br><br>Thursday<br><br>12:00 - 15:00<br><br>Friday<br><br>9:30 - 12:00<br><br>Saturday<br><br>Closed<br><br>Sunday<br><br>Closed<br><br>Divider<br>Food Available<br>Food Available<br>Fresh produce<br><br>Frozen food<br><br>Divider<br>Services<br>Services<br>Cooking classes<br><br>Community events<br><br>Many of our community fridges offer additional services. Please check with the fridge directly to see what services they offer.<br><br>Divider<br>Accessibility<br>Accessibility<br>Wheelchair accessible<br><br>Divider<br>Volunteers<br>Volunteers<br>Currently accepting volunteers]]></description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -1.9726953,52.4866034,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Bartley Green & Northfield Community Fridge/Cafe
+]]></name>
+      <description><![CDATA[Fridge Type<br>Open to the public<br><br>Divider<br>Opening Hours<br>Opening Hours<br>Open today from 9:00am to 2:00pm<br><br>Monday<br><br>9:00 - 14:00<br><br>Tuesday<br><br>9:00 - 14:00<br><br>Wednesday<br><br>9:00 - 14:00<br><br>Thursday<br><br>9:00 - 14:00<br><br>Friday<br><br>9:00 - 14:00<br><br>Saturday<br><br>9:00 - 12:00<br><br>Sunday<br><br>11:00 - 15:00<br><br>Divider<br>Food Available<br>Food Available<br>Fresh produce<br><br>Frozen food<br><br>Cupboard items<br><br>Divider<br>Services<br>Services<br>Cooking classes<br><br>Many of our community fridges offer additional services. Please check with the fridge directly to see what services they offer.<br><br>Divider<br>Accessibility<br>Accessibility<br>Wheelchair accessible<br><br>Divider<br>Volunteers<br>Volunteers<br>Currently accepting volunteers]]></description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -1.9833535,52.4303688,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>RCCG SHELDON COMMUNITY FRIDGE
+</name>
+      <description><![CDATA[Fridge Type<br>Open to the public<br><br>Divider<br>Opening Hours<br>Opening Hours<br>We're still gathering opening times. Please contact the fridge directly for their opening times.<br><br>Divider<br>Food Available<br>Food Available<br>Fresh produce<br><br>Cupboard items<br><br>Divider<br>Services<br>Services<br>Many of our community fridges offer additional services. Please check with the fridge directly to see what services they offer.<br><br>Divider<br>Accessibility<br>Accessibility<br>We're still gathering accessibility details. Please contact the fridge directly for more information.<br><br>Divider<br>Volunteers<br>Volunteers<br>We're unsure if this fridge is currently accepting volunteers. Please contact the fridge directly.]]></description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -1.787536,52.4501499,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Alvechurch Community Larder
+</name>
+      <description><![CDATA[Fridge Type<br>Not open to the public<br><br>Divider<br>Opening Hours<br>Opening Hours<br>Open today from 8:00pm to 9:00am<br><br>Monday<br><br>Closed<br><br>Tuesday<br><br>Closed<br><br>Wednesday<br><br>Closed<br><br>Thursday<br><br>20:00 - 9:00<br><br>Friday<br><br>11:00 - 12:30<br><br>Saturday<br><br>Closed<br><br>Sunday<br><br>Closed<br><br>Divider<br>Food Available<br>Food Available<br>Fresh produce<br><br>Frozen food<br><br>Cupboard items<br><br>Divider<br>Services<br>Services<br>Food redistribution<br><br>Community events<br><br>Many of our community fridges offer additional services. Please check with the fridge directly to see what services they offer.<br><br>Divider<br>Accessibility<br>Accessibility<br>Wheelchair accessible<br><br>Divider<br>Volunteers<br>Volunteers<br>Not currently accepting volunteers]]></description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -1.9605393,52.3525815,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>High Oak Youth and Community Centre</name>
+      <description><![CDATA[Address<br>34 High Oak, Dudley, DY5 4LA<br><br>Divider<br>Fridge Type<br>Fridge Type<br>Open to the public<br><br>Divider<br>Opening Hours<br>Opening Hours<br>We're still gathering opening times. Please contact the fridge directly for their opening times.<br><br>Divider<br>Food Available<br>Food Available<br>Fresh produce<br><br>Cupboard items<br><br>Divider<br>Services<br>Services<br>Many of our community fridges offer additional services. Please check with the fridge directly to see what services they offer.<br><br>Divider<br>Accessibility<br>Accessibility<br>We're still gathering accessibility details. Please contact the fridge directly for more information.<br><br>Divider<br>Volunteers<br>Volunteers<br>We're unsure if this fridge is currently accepting volunteers. Please contact the fridge directly.]]></description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -2.1338323,52.4995014,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Spark Community Fridge</name>
+      <description><![CDATA[Fridge Type<br>Open to the public<br><br>Divider<br>Opening Hours<br>Opening Hours<br>Open today from 10:00am to 3:00pm<br><br>Monday<br><br>10:00 - 15:00<br><br>Tuesday<br><br>10:00 - 15:00<br><br>Wednesday<br><br>10:00 - 15:00<br><br>Thursday<br><br>10:00 - 15:00<br><br>Friday<br><br>10:00 - 15:00<br><br>Saturday<br><br>Closed<br><br>Sunday<br><br>Closed<br><br>Divider<br>Food Available<br>Food Available<br>Fresh produce<br><br>Cupboard items<br><br>Divider<br>Services<br>Services<br>Community events<br><br>Many of our community fridges offer additional services. Please check with the fridge directly to see what services they offer.<br><br>Divider<br>Accessibility<br>Accessibility<br>Wheelchair accessible<br><br>Divider<br>Volunteers<br>Volunteers<br>Currently accepting volunteers]]></description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -1.9199954,52.6771417,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>White Hart Community Fridge
+</name>
+      <description><![CDATA[Fridge Type<br>Open to the public<br><br>Divider<br>Opening Hours<br>Opening Hours<br>We're still gathering opening times. Please contact the fridge directly for their opening times.<br><br>Divider<br>Food Available<br>Food Available<br>Fresh produce<br><br>Cupboard items<br><br>Divider<br>Services<br>Services<br>Many of our community fridges offer additional services. Please check with the fridge directly to see what services they offer.<br><br>Divider<br>Accessibility<br>Accessibility<br>We're still gathering accessibility details. Please contact the fridge directly for more information.<br><br>Divider<br>Volunteers<br>Volunteers<br>We're unsure if this fridge is currently accepting volunteers. Please contact the fridge directly.]]></description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -1.5502696,52.5784713,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Holbrooks Community Fridge
+</name>
+      <description><![CDATA[Fridge Type<br>Open to the public<br><br>Divider<br>Opening Hours<br>Opening Hours<br>Open today from 1:00pm to 3:00pm<br><br>Monday<br><br>Closed<br><br>Tuesday<br><br>13:00 - 15:00<br><br>Wednesday<br><br>16:00 - 18:00<br><br>Thursday<br><br>13:00 - 15:00<br><br>Friday<br><br>Closed<br><br>Saturday<br><br>Closed<br><br>Sunday<br><br>Closed<br><br>Divider<br>Food Available<br>Food Available<br>Fresh produce<br><br>Cupboard items<br><br>Divider<br>Services<br>Services<br>Many of our community fridges offer additional services. Please check with the fridge directly to see what services they offer.<br><br>Divider<br>Accessibility<br>Accessibility<br>Wheelchair accessible<br><br>Divider<br>Volunteers<br>Volunteers<br>Currently accepting volunteers]]></description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -1.5084871,52.4393734,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Droitwich Community Pantry and Fridge
+</name>
+      <description><![CDATA[Fridge Type<br>Open to the public<br><br>Divider<br>Opening Hours<br>Opening Hours<br>Closed today<br><br>Monday<br><br>Closed<br><br>Tuesday<br><br>Closed<br><br>Wednesday<br><br>13:00 - 18:00<br><br>Thursday<br><br>Closed<br><br>Friday<br><br>Closed<br><br>Saturday<br><br>Closed<br><br>Sunday<br><br>Closed<br><br>Divider<br>Food Available<br>Food Available<br>Fresh produce<br><br>Frozen food<br><br>Cupboard items<br><br>Divider<br>Services<br>Services<br>Many of our community fridges offer additional services. Please check with the fridge directly to see what services they offer.<br><br>Divider<br>Accessibility<br>Accessibility<br>Wheelchair accessible<br><br>Divider<br>Volunteers<br>Volunteers<br>Currently accepting volunteers]]></description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -2.1614918,52.2823298,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Droitwich Spa & Rural Council for Voluntary Service (DCVS)
+]]></name>
+      <description><![CDATA[Fridge Type<br>Open to the public<br><br>Divider<br>Opening Hours<br>Opening Hours<br>We're still gathering opening times. Please contact the fridge directly for their opening times.<br><br>Divider<br>Food Available<br>Food Available<br>Fresh produce<br><br>Cupboard items<br><br>Divider<br>Services<br>Services<br>Many of our community fridges offer additional services. Please check with the fridge directly to see what services they offer.<br><br>Divider<br>Accessibility<br>Accessibility<br>We're still gathering accessibility details. Please contact the fridge directly for more information.<br><br>Divider<br>Volunteers<br>Volunteers<br>We're unsure if this fridge is currently accepting volunteers. Please contact the fridge directly.]]></description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -2.1647107,52.2751134,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Urban Goodies Community Fridge
+</name>
+      <description><![CDATA[Fridge Type<br>Open to the public<br><br>Divider<br>Opening Hours<br>Opening Hours<br>Open today from 10:00am to 3:00pm<br><br>Monday<br><br>10:00 - 15:00<br><br>Tuesday<br><br>10:00 - 15:00<br><br>Wednesday<br><br>10:00 - 15:00<br><br>Thursday<br><br>10:00 - 15:00<br><br>Friday<br><br>10:00 - 15:00<br><br>Saturday<br><br>10:00 - 15:00<br><br>Sunday<br><br>10:00 - 15:00<br><br>Divider<br>Food Available<br>Food Available<br>Fresh produce<br><br>Frozen food<br><br>Cupboard items<br><br>Divider<br>Services<br>Services<br>Food redistribution<br><br>Cooking classes<br><br>Community events<br><br>Many of our community fridges offer additional services. Please check with the fridge directly to see what services they offer.<br><br>Divider<br>Accessibility<br>Accessibility<br>Wheelchair accessible<br><br>Divider<br>Volunteers<br>Volunteers<br>Currently accepting volunteers<br><br>Divider]]></description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -1.4629837,52.3886063,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brunswick Healthy Living Centre
+</name>
+      <description><![CDATA[Fridge Type<br>Open to the public<br><br>Divider<br>Opening Hours<br>Opening Hours<br>Open today from 9:00am to 2:30pm<br><br>Monday<br><br>Closed<br><br>Tuesday<br><br>Closed<br><br>Wednesday<br><br>Closed<br><br>Thursday<br><br>9:00 - 14:30<br><br>Friday<br><br>9:00 - 14:30<br><br>Saturday<br><br>Closed<br><br>Sunday<br><br>Closed<br><br>Divider<br>Food Available<br>Food Available<br>Fresh produce<br><br>Frozen food<br><br>Cupboard items<br><br>Divider<br>Services<br>Services<br>Many of our community fridges offer additional services. Please check with the fridge directly to see what services they offer.<br><br>Divider<br>Accessibility<br>Accessibility<br>Wheelchair accessible<br><br>Divider<br>Volunteers<br>Volunteers<br>Not currently accepting volunteers]]></description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -1.5304454,52.2787042,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bidford Community Fridge
+</name>
+      <description><![CDATA[Fridge Type<br>Open to the public<br><br>Divider<br>Opening Hours<br>Opening Hours<br>We're still gathering opening times. Please contact the fridge directly for their opening times.<br><br>Divider<br>Food Available<br>Food Available<br>Fresh produce<br><br>Cupboard items<br><br>Divider<br>Services<br>Services<br>Many of our community fridges offer additional services. Please check with the fridge directly to see what services they offer.<br><br>Divider<br>Accessibility<br>Accessibility<br>We're still gathering accessibility details. Please contact the fridge directly for more information.<br><br>Divider<br>Volunteers<br>Volunteers<br>We're unsure if this fridge is currently accepting volunteers. Please contact the fridge directly.]]></description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -1.8661363,52.1637539,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Recycling Popup</name>
+      <description><![CDATA[When - 17 June 2026<br>@ - Osler Street, B16 9EU<br>7:30am to 12:30pm]]></description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -1.9320576,52.4791936,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
