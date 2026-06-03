@@ -20,12 +20,15 @@ export default function Home() {
         Object.keys(CATEGORIES) as CategoryKey[]
     )
     const [searchQuery, setSearchQuery] = useState('')
+    const [sidebarCollapsed, setSidebarCollapsed] = useState(false)
 
     const toggleCategory = (key: CategoryKey) => {
         setActiveCategories((prev) =>
             prev.includes(key) ? prev.filter((k) => k !== key) : [...prev, key]
         )
     }
+
+    const toggleSidebar = () => setSidebarCollapsed((prev) => !prev)
 
     const filtered = useMemo(() => {
         const q = searchQuery.trim().toLowerCase()
@@ -93,6 +96,8 @@ export default function Home() {
                     onToggleCategory={toggleCategory}
                     searchQuery={searchQuery}
                     onSearchChange={setSearchQuery}
+                    isCollapsed={sidebarCollapsed}
+                    onToggleCollapse={toggleSidebar}
                 />
                 <div
                     style={{

@@ -20,6 +20,8 @@ interface SidebarProps {
     onToggleCategory: (key: CategoryKey) => void
     searchQuery: string
     onSearchChange: (next: string) => void
+    isCollapsed: boolean
+    onToggleCollapse: () => void
 }
 
 export default function Sidebar({
@@ -27,22 +29,59 @@ export default function Sidebar({
     onToggleCategory,
     searchQuery,
     onSearchChange,
+    isCollapsed,
+    onToggleCollapse,
 }: SidebarProps) {
     const keys = Object.keys(CATEGORIES) as CategoryKey[]
 
     return (
         <aside
             style={{
-                width: 260,
+                width: isCollapsed ? 60 : 260,
                 padding: 16,
                 background: '#fafafa',
                 borderRight: '1px solid #e0e0e0',
                 overflowY: 'auto',
                 flexShrink: 0,
+                display: 'flex',
+                flexDirection: 'column',
+                alignItems: isCollapsed ? 'center' : 'stretch',
+                transition: 'width 0.25s ease',
             }}
         >
-            <SearchBar value={searchQuery} onChange={onSearchChange} />
-            <h2 style={{ margin: '16px 0 16px 0', fontSize: 18 }}>Filters</h2>
+            <div
+                style={{
+                    display: 'flex',
+                    alignItems: 'center',
+                    justifyContent: isCollapsed ? 'center' : 'space-between',
+                    width: '100%',
+                    marginBottom: isCollapsed ? 12 : 20,
+                }}
+            >
+                {!isCollapsed && (
+                    <h2 style={{ margin: 0, fontSize: 18 }}>Filters</h2>
+                )}
+                <button
+                    type="button"
+                    onClick={onToggleCollapse}
+                    style={{
+                        width: 38,
+                        height: 38,
+                        border: 'none',
+                        borderRadius: 10,
+                        background: '#23392C',
+                        color: 'white',
+                        cursor: 'pointer',
+                        fontSize: 18,
+                        fontWeight: 700,
+                    }}
+                    aria-label={isCollapsed ? 'Expand sidebar' : 'Collapse sidebar'}
+                    aria-expanded={!isCollapsed}
+                >
+                    {isCollapsed ? '»' : '«'}
+                </button>
+            </div>
+            {!isCollapsed && <SearchBar value={searchQuery} onChange={onSearchChange} />}
 
             {keys.map((key) => {
                 const cat = CATEGORIES[key]
@@ -54,7 +93,8 @@ export default function Sidebar({
                         style={{
                             display: 'flex',
                             alignItems: 'center',
-                            gap: 8,
+                            justifyContent: isCollapsed ? 'center' : 'flex-start',
+                            gap: isCollapsed ? 0 : 8,
                             width: '100%',
                             padding: '8px 12px',
                             marginBottom: 8,
@@ -65,12 +105,12 @@ export default function Sidebar({
                             cursor: 'pointer',
                             fontSize: 14,
                             fontWeight: 600,
-                            textAlign: 'left',
+                            textAlign: isCollapsed ? 'center' : 'left',
                         }}
                         aria-pressed={isActive}
                     >
                         <span style={{ fontSize: 18 }}>{cat.emoji}</span>
-                        <span>{cat.label}</span>
+                        {!isCollapsed && <span>{cat.label}</span>}
                     </button>
                 )
             })}
