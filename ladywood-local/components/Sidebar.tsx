@@ -59,7 +59,7 @@ export default function Sidebar({
                 }}
             >
                 {!isCollapsed && (
-                    <h2 style={{ margin: 0, fontSize: 18 }}>Filters</h2>
+                    <h2 style={{ margin: 0, fontSize: 18, color: '#333' }}>Filters</h2>
                 )}
                 <button
                     type="button"
@@ -81,7 +81,11 @@ export default function Sidebar({
                     {isCollapsed ? '»' : '«'}
                 </button>
             </div>
-            {!isCollapsed && <SearchBar value={searchQuery} onChange={onSearchChange} />}
+            {!isCollapsed && (
+                <div style={{ width: '100%', marginBottom: 12 }}>
+                    <SearchBar value={searchQuery} onChange={onSearchChange} />
+                </div>
+            )}
 
             {keys.map((key) => {
                 const cat = CATEGORIES[key]
