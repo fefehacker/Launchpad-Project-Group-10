@@ -87,6 +87,34 @@ export default function Sidebar({
                 </div>
             )}
 
+            {!isCollapsed && (
+                <div style={{ width: '100%', marginBottom: 12 }}>
+                    <button
+                        type="button"
+                        className="open-now-toggle"
+                        aria-pressed="false"
+                        title="Show only locations that are currently open (UI only)"
+                        style={{
+                            width: '100%',
+                            padding: '8px 12px',
+                            fontSize: 14,
+                            color: '#333',
+                            fontWeight: 600,
+                            borderRadius: 6,
+                            border: '1px solid #ccc',
+                            background: 'white',
+                            cursor: 'default',
+                            display: 'flex',
+                            alignItems: 'center',
+                            gap: 8,
+                        }}
+                    >
+                        <span style={{ fontSize: 16 }}>🟢</span>
+                        <span>Open now</span>
+                    </button>
+                </div>
+            )}
+
             {keys.map((key) => {
                 const cat = CATEGORIES[key]
                 const isActive = activeCategories.includes(key)
