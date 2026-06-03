@@ -12,6 +12,7 @@
  *    owns the `activeCategories` state and the filtering logic.
  */
 
+import { useState } from 'react'
 import SearchBar from '../components/SearchBar'
 import { CATEGORIES, type CategoryKey } from '../lib/categories'
 
@@ -32,15 +33,18 @@ export default function Sidebar({
     isCollapsed,
     onToggleCollapse,
 }: SidebarProps) {
+    const [openNowActive, setOpenNowActive] = useState(false)
     const keys = Object.keys(CATEGORIES) as CategoryKey[]
 
     return (
         <aside
+            className="sidebar"
             style={{
-                width: isCollapsed ? 60 : 260,
+                ['--sidebar-width' as any]: isCollapsed ? '60px' : '260px',
+                ['--sidebar-height' as any]: isCollapsed ? '64px' : '50vh',
                 padding: 16,
                 background: '#fafafa',
-                borderRight: '1px solid #e0e0e0',
+                borderRight: '2px solid #e0e0e0',
                 overflowY: 'auto',
                 flexShrink: 0,
                 display: 'flex',
@@ -92,18 +96,19 @@ export default function Sidebar({
                     <button
                         type="button"
                         className="open-now-toggle"
-                        aria-pressed="false"
-                        title="Show only locations that are currently open (UI only)"
+                        aria-pressed={openNowActive} //Allow this to filter locations that are currently open. This is a client-side toggle; the parent component (app/page.tsx) will handle the actual filtering logic based on this state.
+                        onClick={() => setOpenNowActive((prev) => !prev)}
+                        title="Show only locations that are currently open"
                         style={{
                             width: '100%',
                             padding: '8px 12px',
                             fontSize: 14,
-                            color: '#333',
+                            color: openNowActive ? 'white' : '#333',
                             fontWeight: 600,
                             borderRadius: 6,
-                            border: '1px solid #ccc',
-                            background: 'white',
-                            cursor: 'default',
+                            border: `2px solid ${openNowActive ? '#23392C' : '#ccc'}`,
+                            background: openNowActive ? '#23392C' : 'white',
+                            cursor: 'pointer',
                             display: 'flex',
                             alignItems: 'center',
                             gap: 8,
