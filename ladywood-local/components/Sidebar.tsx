@@ -59,7 +59,7 @@ export default function Sidebar({
                     alignItems: 'center',
                     justifyContent: isCollapsed ? 'center' : 'space-between',
                     width: '100%',
-                    marginBottom: isCollapsed ? 12 : 20,
+                    marginBottom: 16,
                 }}
             >
                 {!isCollapsed && (
@@ -86,17 +86,17 @@ export default function Sidebar({
                 </button>
             </div>
             {!isCollapsed && (
-                <div style={{ width: '100%', marginBottom: 12 }}>
+                <div style={{ width: '100%', marginBottom: 16 }}>
                     <SearchBar value={searchQuery} onChange={onSearchChange} />
                 </div>
             )}
 
             {!isCollapsed && (
-                <div style={{ width: '100%', marginBottom: 12 }}>
+                <div style={{ width: '100%', marginBottom: 16 }}>
                     <button
                         type="button"
                         className="open-now-toggle"
-                        aria-pressed={openNowActive} //Allow this to filter locations that are currently open. This is a client-side toggle; the parent component (app/page.tsx) will handle the actual filtering logic based on this state.
+                        aria-pressed={openNowActive}
                         onClick={() => setOpenNowActive((prev) => !prev)}
                         title="Show only locations that are currently open"
                         style={{
