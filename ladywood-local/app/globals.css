@@ -40,3 +40,23 @@ a {
     color-scheme: dark;
   }
 }
+
+.sidebar {
+  width: var(--sidebar-width);
+}
+
+@media (max-width: 768px) {
+  .sidebar {
+    width: 100% !important;
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 1000;
+    border-top: 2px solid #e0e0e0;
+    border-right: 0;
+    overflow: hidden;
+    max-height: var(--sidebar-height);
+    transition: height 0.25s ease;
+  }
+}
