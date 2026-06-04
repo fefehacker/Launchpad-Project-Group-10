@@ -12,6 +12,7 @@
  *    owns the `activeCategories` state and the filtering logic.
  */
 
+import { useState } from 'react'
 import SearchBar from '../components/SearchBar'
 import { CATEGORIES, type CategoryKey } from '../lib/categories'
 
@@ -32,15 +33,18 @@ export default function Sidebar({
     isCollapsed,
     onToggleCollapse,
 }: SidebarProps) {
+    const [openNowActive, setOpenNowActive] = useState(false)
     const keys = Object.keys(CATEGORIES) as CategoryKey[]
 
     return (
         <aside
+            className="sidebar"
             style={{
-                width: isCollapsed ? 60 : 260,
+                ['--sidebar-width' as any]: isCollapsed ? '60px' : '260px',
+                ['--sidebar-height' as any]: isCollapsed ? '64px' : '50vh',
                 padding: 16,
                 background: '#fafafa',
-                borderRight: '1px solid #e0e0e0',
+                borderRight: '2px solid #e0e0e0',
                 overflowY: 'auto',
                 flexShrink: 0,
                 display: 'flex',
@@ -59,7 +63,7 @@ export default function Sidebar({
                 }}
             >
                 {!isCollapsed && (
-                    <h2 style={{ margin: 0, fontSize: 18 }}>Filters</h2>
+                    <h2 style={{ margin: 0, fontSize: 18, color: '#333' }}>Filters</h2>
                 )}
                 <button
                     type="button"
@@ -82,8 +86,37 @@ export default function Sidebar({
                 </button>
             </div>
             {!isCollapsed && (
-                <div style={{ marginBottom: 16 }}>
+                <div style={{ width: '100%', marginBottom: 16 }}>
                     <SearchBar value={searchQuery} onChange={onSearchChange} />
+                </div>
+            )}
+
+            {!isCollapsed && (
+                <div style={{ width: '100%', marginBottom: 16 }}>
+                    <button
+                        type="button"
+                        className="open-now-toggle"
+                        aria-pressed={openNowActive}
+                        onClick={() => setOpenNowActive((prev) => !prev)}
+                        title="Show only locations that are currently open"
+                        style={{
+                            width: '100%',
+                            padding: '8px 12px',
+                            fontSize: 14,
+                            color: openNowActive ? 'white' : '#333',
+                            fontWeight: 600,
+                            borderRadius: 6,
+                            border: `2px solid ${openNowActive ? '#23392C' : '#ccc'}`,
+                            background: openNowActive ? '#23392C' : 'white',
+                            cursor: 'pointer',
+                            display: 'flex',
+                            alignItems: 'center',
+                            gap: 8,
+                        }}
+                    >
+                        <span style={{ fontSize: 16 }}>🟢</span>
+                        <span>Open now</span>
+                    </button>
                 </div>
             )}
 

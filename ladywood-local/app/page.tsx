@@ -6,6 +6,7 @@ import Sidebar from '../components/Sidebar'
 import { CATEGORIES, type CategoryKey } from '../lib/categories'
 import { supabase } from '../lib/supabase'
 import type { Location } from '../types/location'
+import styles from './page.module.css'
 
 export default function Home() {
     const [locations, setLocations] = useState<Location[]>([])
@@ -84,12 +85,7 @@ export default function Home() {
                     Birmingham
                 </div>
             </header>
-            <main
-                style={{
-                    display: 'flex',
-                    flex: 1,
-                    overflow: 'hidden',
-                }}
+            <main className={styles.appMain}
             >
                 <Sidebar
                     activeCategories={activeCategories}
