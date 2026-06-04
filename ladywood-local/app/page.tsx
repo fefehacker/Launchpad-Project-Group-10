@@ -4,6 +4,7 @@ import { useEffect, useMemo, useState } from 'react'
 import Map from '../components/Map'
 import Sidebar from '../components/Sidebar'
 import { CATEGORIES, type CategoryKey } from '../lib/categories'
+import { isOpenNow } from '../lib/isOpenNow'
 import { supabase } from '../lib/supabase'
 import type { Location } from '../types/location'
 import styles from './page.module.css'
@@ -21,6 +22,7 @@ export default function Home() {
         Object.keys(CATEGORIES) as CategoryKey[]
     )
     const [searchQuery, setSearchQuery] = useState('')
+    const [openNow, setOpenNow] = useState(false)
     const [sidebarCollapsed, setSidebarCollapsed] = useState(false)
 
     const toggleCategory = (key: CategoryKey) => {
@@ -35,12 +37,13 @@ export default function Home() {
         const q = searchQuery.trim().toLowerCase()
         return locations.filter((loc) => {
             if (!activeCategories.includes(loc.type)) return false
+            if (openNow && !isOpenNow(loc.hours)) return false
             if (!q) return true
             const inName = loc.name.toLowerCase().includes(q)
             const inAddress = loc.address?.toLowerCase().includes(q) ?? false
             return inName || inAddress
         })
-    }, [locations, activeCategories, searchQuery])
+    }, [locations, activeCategories, searchQuery, openNow])
 
     return (
         <div
@@ -92,6 +95,8 @@ export default function Home() {
                     onToggleCategory={toggleCategory}
                     searchQuery={searchQuery}
                     onSearchChange={setSearchQuery}
+                    openNow={openNow}
+                    onToggleOpenNow={() => setOpenNow((p) => !p)}
                     isCollapsed={sidebarCollapsed}
                     onToggleCollapse={toggleSidebar}
                 />

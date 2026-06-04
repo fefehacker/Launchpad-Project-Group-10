@@ -12,7 +12,6 @@
  *    owns the `activeCategories` state and the filtering logic.
  */
 
-import { useState } from 'react'
 import SearchBar from '../components/SearchBar'
 import { CATEGORIES, type CategoryKey } from '../lib/categories'
 
@@ -21,6 +20,8 @@ interface SidebarProps {
     onToggleCategory: (key: CategoryKey) => void
     searchQuery: string
     onSearchChange: (next: string) => void
+    openNow: boolean
+    onToggleOpenNow: () => void
     isCollapsed: boolean
     onToggleCollapse: () => void
 }
@@ -30,10 +31,11 @@ export default function Sidebar({
     onToggleCategory,
     searchQuery,
     onSearchChange,
+    openNow,
+    onToggleOpenNow,
     isCollapsed,
     onToggleCollapse,
 }: SidebarProps) {
-    const [openNowActive, setOpenNowActive] = useState(false)
     const keys = Object.keys(CATEGORIES) as CategoryKey[]
 
     return (
@@ -96,18 +98,18 @@ export default function Sidebar({
                     <button
                         type="button"
                         className="open-now-toggle"
-                        aria-pressed={openNowActive}
-                        onClick={() => setOpenNowActive((prev) => !prev)}
+                        aria-pressed={openNow}
+                        onClick={onToggleOpenNow}
                         title="Show only locations that are currently open"
                         style={{
                             width: '100%',
                             padding: '8px 12px',
                             fontSize: 14,
-                            color: openNowActive ? 'white' : '#333',
+                            color: openNow ? 'white' : '#333',
                             fontWeight: 600,
                             borderRadius: 6,
-                            border: `2px solid ${openNowActive ? '#23392C' : '#ccc'}`,
-                            background: openNowActive ? '#23392C' : 'white',
+                            border: `2px solid ${openNow ? '#23392C' : '#ccc'}`,
+                            background: openNow ? '#23392C' : 'white',
                             cursor: 'pointer',
                             display: 'flex',
                             alignItems: 'center',
