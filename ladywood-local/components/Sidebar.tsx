@@ -55,7 +55,7 @@ export default function Sidebar({
                     alignItems: 'center',
                     justifyContent: isCollapsed ? 'center' : 'space-between',
                     width: '100%',
-                    marginBottom: isCollapsed ? 12 : 20,
+                    marginBottom: 16,
                 }}
             >
                 {!isCollapsed && (
@@ -81,7 +81,11 @@ export default function Sidebar({
                     {isCollapsed ? '»' : '«'}
                 </button>
             </div>
-            {!isCollapsed && <SearchBar value={searchQuery} onChange={onSearchChange} />}
+            {!isCollapsed && (
+                <div style={{ marginBottom: 16 }}>
+                    <SearchBar value={searchQuery} onChange={onSearchChange} />
+                </div>
+            )}
 
             {keys.map((key) => {
                 const cat = CATEGORIES[key]
