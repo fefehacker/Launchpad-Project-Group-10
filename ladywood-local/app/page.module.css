@@ -41,9 +41,43 @@
   flex-direction: row;
 }
 
+.appHeader{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 12px 20px;
+  border-bottom: 1px solid #e0e0e0;
+  background: #23392C;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
+}
 @media (max-width: 768px) {
   .appMain {
     flex-direction: column-reverse;
+    width: 100%;
+  }
+
+}
+@media (max-width: 600px) {
+  .appHeader {
+    flex-wrap: wrap;
+    row-gap: 12px;
+    justify-content: center;
+    text-align: center;
+  }
+
+  .appHeader > div:first-child {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    width: 100%;
+    align-items: center;
+  }
+
+  .appHeader nav {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 12px;
     width: 100%;
   }
 }
