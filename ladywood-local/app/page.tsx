@@ -1,5 +1,6 @@
 'use client'
 
+import Link from 'next/link'
 import { useEffect, useMemo, useState } from 'react'
 import Map from '../components/Map'
 import Sidebar from '../components/Sidebar'
@@ -52,34 +53,34 @@ export default function Home() {
                 overflow: 'hidden',
             }}
         >
-            <header
-                style={{
-                    display: 'flex',
-                    alignItems: 'center',
-                    justifyContent: 'space-between',
-                    padding: '12px 20px',
-                    borderBottom: '1px solid #e0e0e0',
-                    background: '#23392C',
-                    boxShadow: '0 1px 2px rgba(0, 0, 0, 0.05)',
-                }}
-            >
-                <div style={{ display: 'flex', alignItems: 'center', gap: 12 }}>
-                    <img
-                        src="/logo.png"
-                        alt="Ladywood Local logo"
-                        style={{
-                            width: 38,
-                            height: 38,
-                            borderRadius: '50%',
-                            objectFit: 'cover',
-                        }}
-                    />
-                    <div>
-                        <div style={{ fontSize: 16, fontWeight: 700 }}>Ladywood Local</div>
-                        <div style={{ fontSize: 12, color: '#c1c0c0' }}>
-                            Community resources map
+            <header className={styles.appHeader}>
+                <div style={{ display: 'flex', alignItems: 'center', gap: 32 }}>
+                    <div style={{ display: 'flex', alignItems: 'center', gap: 12 }}>
+                        <img
+                            src="/logo.png"
+                            alt="Ladywood Local logo"
+                            style={{
+                                width: 38,
+                                height: 38,
+                                borderRadius: '50%',
+                                objectFit: 'cover',
+                            }}
+                        />
+                        <div>
+                            <div style={{ fontSize: 16, fontWeight: 700 }}>Ladywood Local</div>
+                            <div style={{ fontSize: 12, color: '#c1c0c0' }}>
+                                Community resources map
+                            </div>
                         </div>
                     </div>
+                    <nav style={{ display: 'flex', gap: 20, alignItems: 'center' }}>
+                        <Link href="/" style={{ color: '#ffffff', textDecoration: 'none', fontSize: 14, fontWeight: 600 }}>
+                            Home
+                        </Link>
+                        <Link href="/signup" style={{ color: '#ffffff', textDecoration: 'none', fontSize: 14, fontWeight: 600 }}>
+                            Sign Up
+                        </Link>
+                    </nav>
                 </div>
                 <div style={{ color: '#c1c0c0', fontSize: 14, fontWeight: 600 }}>
                     Birmingham
