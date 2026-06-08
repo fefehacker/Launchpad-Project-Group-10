@@ -1,0 +1,112 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 20px;
+  background: #23392C;
+  border-bottom: 1px solid rgba(255,255,255,0.08);
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.18);
+  flex-shrink: 0;
+  min-height: 64px;
+}
+
+.brand {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  text-decoration: none;
+  color: inherit;
+}
+
+.logo {
+  border-radius: 50%;
+  object-fit: cover;
+  flex-shrink: 0;
+}
+
+.brandName {
+  font-size: 16px;
+  font-weight: 700;
+  color: #ffffff;
+  line-height: 1.2;
+}
+
+.brandSub {
+  font-size: 12px;
+  color: #a8bfb0;
+  line-height: 1.2;
+  margin-top: 1px;
+}
+
+.nav {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.navLink {
+  color: #d4e8d8;
+  text-decoration: none;
+  font-size: 14px;
+  font-weight: 500;
+  padding: 6px 12px;
+  border-radius: 6px;
+  transition: background 0.15s, color 0.15s;
+}
+
+.navLink:hover {
+  background: rgba(255, 255, 255, 0.1);
+  color: #ffffff;
+}
+
+.navLink[aria-current='page'] {
+  color: #ffffff;
+  background: rgba(255, 255, 255, 0.12);
+  font-weight: 700;
+}
+
+/* Sign-up is a distinct pill button so new users see it's an action */
+.navCta {
+  color: #23392C;
+  background: #c8f0a8;
+  text-decoration: none;
+  font-size: 14px;
+  font-weight: 700;
+  padding: 7px 16px;
+  border-radius: 20px;
+  transition: background 0.15s, color 0.15s;
+  white-space: nowrap;
+}
+
+.navCta:hover {
+  background: #b3e890;
+}
+
+.navCta[aria-current='page'] {
+  background: #a0d878;
+  color: #1a2e21;
+}
+
+.navCta:focus-visible,
+.navLink:focus-visible {
+  outline: 3px solid #8fd46a;
+  outline-offset: 2px;
+}
+
+@media (max-width: 520px) {
+  .header {
+    flex-wrap: wrap;
+    row-gap: 10px;
+    padding: 10px 16px;
+  }
+
+  .brandSub {
+    display: none;
+  }
+
+  .nav {
+    width: 100%;
+    justify-content: center;
+    padding-bottom: 2px;
+  }
+}

@@ -1,0 +1,162 @@
+.pageBody {
+  min-height: calc(100vh - 64px);
+  background: #f2f9ec;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 48px 16px 64px;
+}
+
+.card {
+  background: #ffffff;
+  border: 2px solid #23392C;
+  border-radius: 14px;
+  padding: 40px 36px;
+  width: 100%;
+  max-width: 480px;
+  box-shadow: 0 4px 20px rgba(35, 57, 44, 0.1);
+}
+
+.cardHeader {
+  margin-bottom: 28px;
+}
+
+.cardHeader h1 {
+  font-size: 26px;
+  font-weight: 700;
+  color: #23392C;
+  margin-bottom: 6px;
+}
+
+.cardHeader p {
+  font-size: 14px;
+  color: #556b5c;
+  line-height: 1.5;
+}
+
+.form {
+  display: grid;
+  gap: 20px;
+}
+
+.field {
+  display: grid;
+  gap: 6px;
+}
+
+.field label {
+  font-size: 14px;
+  font-weight: 600;
+  color: #23392C;
+}
+
+.field input {
+  background: #ffffff;
+  color: #1a1a1a;
+  padding: 12px 14px;
+  border-radius: 8px;
+  border: 1.5px solid #b5c9bb;
+  font-size: 15px;
+  font-family: inherit;
+  transition: border-color 0.15s, box-shadow 0.15s;
+  outline: none;
+  width: 100%;
+}
+
+.field input::placeholder {
+  color: #9aafA0;
+}
+
+.field input:focus {
+  border-color: #23392C;
+  box-shadow: 0 0 0 3px rgba(35, 57, 44, 0.15);
+}
+
+.submitBtn {
+  margin-top: 4px;
+  padding: 13px 18px;
+  border-radius: 8px;
+  border: none;
+  background: #23392C;
+  color: #ffffff;
+  font-size: 15px;
+  font-weight: 600;
+  cursor: pointer;
+  font-family: inherit;
+  transition: background 0.15s;
+  width: 100%;
+}
+
+.submitBtn:hover {
+  background: #2f4d3b;
+}
+
+.submitBtn:focus-visible {
+  outline: 3px solid #5a9e6e;
+  outline-offset: 2px;
+}
+
+.required {
+  color: #b91c1c;
+  font-weight: 700;
+}
+
+.statusMsg {
+  font-size: 14px;
+  margin: 0;
+  padding: 10px 14px;
+  border-radius: 8px;
+}
+
+.statusMsg[data-type='error'] {
+  background: #fef2f2;
+  color: #b91c1c;
+  border: 1px solid #fecaca;
+}
+
+.statusMsg[data-type='info'] {
+  background: #f0fdf4;
+  color: #166534;
+  border: 1px solid #bbf7d0;
+}
+
+/* Success screen */
+.successBox {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  gap: 12px;
+  padding: 8px 0;
+}
+
+.successIcon {
+  width: 52px;
+  height: 52px;
+  border-radius: 50%;
+  background: #23392C;
+  color: #fff;
+  font-size: 24px;
+  font-weight: 700;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.successBox h1 {
+  font-size: 22px;
+  font-weight: 700;
+  color: #23392C;
+}
+
+.successBox p {
+  font-size: 15px;
+  color: #556b5c;
+  line-height: 1.5;
+}
+
+@media (max-width: 520px) {
+  .card {
+    padding: 28px 20px;
+  }
+}
