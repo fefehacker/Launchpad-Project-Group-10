@@ -1,7 +1,11 @@
+'use client'
+
 import Link from 'next/link'
+import { usePathname } from 'next/navigation'
 import styles from '../page.module.css'
 
 export default function SignupPage() {
+  const pathname = usePathname()
   return (
     <main>
       <header className={styles.appHeader}>
@@ -25,10 +29,28 @@ export default function SignupPage() {
             </div>
           </div>
           <nav style={{ display: 'flex', gap: 20, alignItems: 'center' }}>
-            <Link href="/" style={{ color: '#ffffff', textDecoration: 'none', fontSize: 14, fontWeight: 600 }}>
+            <Link
+              href="/"
+              style={{
+                color:  '#ffffff',
+                textDecoration: 'none',
+                fontSize: 14,
+                fontWeight: 600,
+                borderBottom: pathname === '/' ? '2px solid #ffffff' : '2px solid transparent',
+              }}
+            >
               Home
             </Link>
-            <Link href="/signup" style={{ color: '#ffffff', textDecoration: 'none', fontSize: 14, fontWeight: 600 }}>
+            <Link
+              href="/signup"
+              style={{
+                color:  '#ffffff',
+                textDecoration: 'none',
+                fontSize: 14,
+                fontWeight: 600,
+                borderBottom: pathname === '/signup' ? '2px solid #ffffff' : '2px solid transparent',
+              }}
+            >
               Sign Up
             </Link>
           </nav>

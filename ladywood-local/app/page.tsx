@@ -2,6 +2,7 @@
 
 import Link from 'next/link'
 import { useEffect, useMemo, useState } from 'react'
+import { usePathname } from 'next/navigation'
 import Map from '../components/Map'
 import Sidebar from '../components/Sidebar'
 import { CATEGORIES, type CategoryKey } from '../lib/categories'
@@ -22,6 +23,7 @@ export default function Home() {
     const [activeCategories, setActiveCategories] = useState<CategoryKey[]>(
         Object.keys(CATEGORIES) as CategoryKey[]
     )
+    const pathname = usePathname()
     const [searchQuery, setSearchQuery] = useState('')
     const [openNow, setOpenNow] = useState(false)
     const [sidebarCollapsed, setSidebarCollapsed] = useState(false)
@@ -77,10 +79,29 @@ export default function Home() {
                         </div>
                     </div>
                     <nav style={{ display: 'flex', gap: 20, alignItems: 'center' }}>
-                        <Link href="/" style={{ color: '#ffffff', textDecoration: 'none', fontSize: 14, fontWeight: 600 }}>
+                        <Link
+                            href="/"
+                            style={{
+                                color:  '#ffffff',
+                                textDecoration: 'none',
+                                fontSize: 14,
+                                fontWeight: 600,
+                                borderBottom: pathname === '/' ? '2px solid #ffffff' : '2px solid transparent',
+                            }}
+                        >
                             Home
                         </Link>
-                        <Link href="/signup" style={{ color: '#ffffff', textDecoration: 'none', fontSize: 14, fontWeight: 600 }}>
+                        <Link
+                            href="/signup"
+                            style={{
+                                color:  '#ffffff',
+                                
+                                textDecoration: 'none',
+                                fontSize: 14,
+                                fontWeight: 600,
+                                borderBottom: pathname === '/signup' ? '2px solid #fffff' : '2px solid transparent',
+                            }}
+                        >
                             Sign Up
                         </Link>
                     </nav>
