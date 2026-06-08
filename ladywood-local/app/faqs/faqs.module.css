@@ -1,0 +1,93 @@
+.pageBody {
+  min-height: calc(100vh - 64px);
+  background: #f2f9ec;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 48px 16px 64px;
+}
+
+.card {
+  background: #ffffff;
+  border: 2px solid #23392C;
+  border-radius: 14px;
+  padding: 40px 36px;
+  width: 100%;
+  max-width: 860px;
+  box-shadow: 0 4px 20px rgba(35, 57, 44, 0.1);
+}
+
+.cardHeader {
+  margin: 28px;
+}
+
+.cardHeader h1 {
+  font-size: 32px;
+  font-weight: 700;
+  color: #23392C;
+  margin-bottom: 10px;
+}
+
+.cardHeader p {
+  font-size: 16px;
+  color: #556b5c;
+  line-height: 1.7;
+}
+
+.searchBarWrapper {
+  margin-bottom: 24px;
+}
+
+.faqSearchInput {
+  width: 100%;
+  padding: 14px 16px;
+  font-size: 16px;
+  border: 1px solid #c8d6c1;
+  border-radius: 12px;
+  background: #f7faf4;
+  color: #23392c;
+  outline: none;
+}
+
+.faqSearchInput:focus {
+  border-color: #23392c;
+  box-shadow: 0 0 0 4px rgba(35, 57, 44, 0.08);
+}
+
+.noResults {
+  margin: 0 0 20px;
+  font-size: 15px;
+  color: #8f9d8d;
+}
+
+.faqList {
+  display: grid;
+  gap: 22px;
+}
+
+.faqItem {
+  background: #fbfdf7;
+  border: 1px solid #dce8d9;
+  border-radius: 14px;
+  padding: 24px;
+}
+
+.faqItem h2 {
+  margin: 0;
+  font-size: 18px;
+  font-weight: 700;
+  color: #23392C;
+}
+
+.faqItem p {
+  margin: 12px 0 0;
+  font-size: 15px;
+  color: #556b5c;
+  line-height: 1.75;
+}
+
+@media (max-width: 600px) {
+  .card {
+    padding: 28px 20px;
+  }
+}

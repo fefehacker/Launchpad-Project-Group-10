@@ -34,6 +34,13 @@ export default function AppHeader() {
             Map
           </Link>
           <Link
+            href="/faqs"
+            className={styles.navLink}
+            aria-current={pathname === '/faqs' ? 'page' : undefined}
+          >
+            FAQs
+          </Link>
+          <Link
             href="/signup"
             className={styles.navCta}
             aria-current={pathname === '/signup' ? 'page' : undefined}

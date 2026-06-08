@@ -17,13 +17,14 @@
 interface SearchBarProps {
     value: string
     onChange: (next: string) => void
+    placeholder?: string
 }
 
-export default function SearchBar({ value, onChange }: SearchBarProps) {
+export default function SearchBar({ value, onChange, placeholder = 'Search by name or address…' }: SearchBarProps) {
     return (
         <input
             type="search"
-            placeholder="Search by name or address…"
+            placeholder={placeholder}
             value={value}
             onChange={(e) => onChange(e.target.value)}
             style={{
