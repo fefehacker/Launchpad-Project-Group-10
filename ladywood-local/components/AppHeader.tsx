@@ -21,7 +21,7 @@ export default function AppHeader() {
           />
           <div>
             <div className={styles.brandName}>Ladywood Local</div>
-            <div className={styles.brandSub}>Community resources map · Birmingham</div>
+            <div className={styles.brandSub}>Find the support you need on your doorstep</div>
           </div>
         </div>
 
