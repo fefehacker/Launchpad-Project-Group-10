@@ -1,17 +1,28 @@
 'use client'
 
+import Link from 'next/link'
 import { useState } from 'react'
 import AppHeader from '../../components/AppHeader'
 import { createSupabaseBrowserClient } from '../../lib/supabase-browser'
 import signupStyles from './signup.module.css'
 
+const EMAIL_RE = /^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/
+
 export default function SignupPage() {
   const [name, setName] = useState('')
   const [email, setEmail] = useState('')
+  const [emailError, setEmailError] = useState<string | null>(null)
   const [status, setStatus] = useState<'idle' | 'loading' | 'success' | 'error' | 'duplicate'>('idle')
 
   async function handleSubmit(e: React.FormEvent) {
     e.preventDefault()
+    setEmailError(null)
+
+    if (!EMAIL_RE.test(email.trim())) {
+      setEmailError('Please enter a valid email address.')
+      return
+    }
+
     setStatus('loading')
 
     const supabase = createSupabaseBrowserClient()
@@ -53,6 +64,7 @@ export default function SignupPage() {
       <main id="main-content">
         <div className={signupStyles.pageBody}>
           <div className={signupStyles.card}>
+            <Link href="/" className={signupStyles.backLink}>← Back to map</Link>
             <div className={signupStyles.cardHeader}>
               <h1>Stay in the loop</h1>
               <p>Sign up to get updates on bin days, local events, and new community resources in Ladywood.</p>
@@ -79,11 +91,18 @@ export default function SignupPage() {
                   type="email"
                   name="email"
                   value={email}
-                  onChange={e => setEmail(e.target.value)}
+                  onChange={e => { setEmail(e.target.value); setEmailError(null) }}
                   placeholder="you@example.com"
                   autoComplete="email"
                   required
+                  aria-describedby={emailError ? 'email-error' : undefined}
+                  aria-invalid={emailError ? true : undefined}
                 />
+                {emailError && (
+                  <p id="email-error" className={signupStyles.fieldError} role="alert">
+                    {emailError}
+                  </p>
+                )}
               </div>
 
               {status === 'duplicate' && (

@@ -17,6 +17,32 @@
   box-shadow: 0 4px 20px rgba(35, 57, 44, 0.1);
 }
 
+.backLink {
+  display: inline-block;
+  font-size: 13px;
+  font-weight: 500;
+  color: #556b5c;
+  text-decoration: none;
+  margin-bottom: 20px;
+  opacity: 0.85;
+  transition: opacity 0.15s;
+}
+
+.backLink:hover {
+  opacity: 1;
+  text-decoration: underline;
+}
+
+.fieldError {
+  font-size: 13px;
+  color: #b91c1c;
+  margin: 0;
+  padding: 6px 10px;
+  border-radius: 6px;
+  background: #fef2f2;
+  border: 1px solid #fecaca;
+}
+
 .cardHeader {
   margin-bottom: 28px;
 }

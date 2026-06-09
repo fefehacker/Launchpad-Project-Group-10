@@ -1,18 +1,6 @@
 'use client'
 
-/**
- * SearchBar component — controlled text input for name/address search.
- *
- * BACKEND HOOKS
- * -------------
- *  - Pure presentational. Parent (app/page.tsx) owns the search string
- *    and decides what to do with it. Current behaviour: substring match
- *    on Location.name and Location.address, case-insensitive, performed
- *    in the parent before the filtered array is passed to <Map>.
- *  - If you later wire this up to a Supabase full-text search instead of
- *    client-side filtering, just have the parent's `onChange` trigger
- *    the query — this component doesn't need to change.
- */
+import styles from './SearchBar.module.css'
 
 interface SearchBarProps {
     value: string
@@ -22,22 +10,21 @@ interface SearchBarProps {
 
 export default function SearchBar({ value, onChange, placeholder = 'Search by name or address…' }: SearchBarProps) {
     return (
-        <input
-            type="search"
-            placeholder={placeholder}
-            value={value}
-            onChange={(e) => onChange(e.target.value)}
-            style={{
-                width: '100%',
-                padding: '10px 14px',
-                fontSize: 14,
-                border: '1px solid #ccc',
-                background: '#d3d3d3',
-                color: '#333',
-                borderRadius: 6,
-                outline: 'none',
-                boxSizing: 'border-box',
-            }}
-        />
+        <div className={styles.wrapper}>
+            <span className={styles.icon} aria-hidden="true">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round">
+                    <circle cx="11" cy="11" r="8" />
+                    <line x1="21" y1="21" x2="16.65" y2="16.65" />
+                </svg>
+            </span>
+            <input
+                className={styles.input}
+                type="search"
+                placeholder={placeholder}
+                value={value}
+                onChange={(e) => onChange(e.target.value)}
+                aria-label={placeholder}
+            />
+        </div>
     )
 }

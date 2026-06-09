@@ -45,6 +45,13 @@ a {
   width: var(--sidebar-width);
 }
 
+.collapse-icon-mobile { display: none; }
+
+@media (max-width: 768px) {
+  .collapse-icon-desktop { display: none; }
+  .collapse-icon-mobile { display: inline; }
+}
+
 @media (max-width: 768px) {
   .sidebar {
     width: 100% !important;

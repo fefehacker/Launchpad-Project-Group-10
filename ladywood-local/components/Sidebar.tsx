@@ -84,7 +84,8 @@ export default function Sidebar({
                     aria-label={isCollapsed ? 'Expand sidebar' : 'Collapse sidebar'}
                     aria-expanded={!isCollapsed}
                 >
-                    {isCollapsed ? '»' : '«'}
+                    <span className="collapse-icon-desktop">{isCollapsed ? '»' : '«'}</span>
+                    <span className="collapse-icon-mobile">{isCollapsed ? '▲' : '▼'}</span>
                 </button>
             </div>
             {!isCollapsed && (
