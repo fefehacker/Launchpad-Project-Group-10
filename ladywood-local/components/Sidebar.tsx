@@ -1,16 +1,5 @@
 'use client'
 
-/**
- * Sidebar component — category filter buttons.
- *
- * BACKEND HOOKS
- * -------------
- *  - Iterates over CATEGORIES (lib/categories.ts) — DO NOT hardcode any
- *    category names, labels, emojis or colours here. Add/rename/recolour
- *    a category in that one file and this sidebar reflects it.
- *  - Reports clicks via `onToggleCategory`. The parent (app/page.tsx)
- *    owns the `activeCategories` state and the filtering logic.
- */
 
 import SearchBar from '../components/SearchBar'
 import { CATEGORIES, type CategoryKey } from '../lib/categories'

@@ -1,27 +1,5 @@
 'use client'
 
-/**
- * Map component — renders the Google Map + a marker pin per location.
- *
- * BACKEND HOOKS
- * -------------
- *  - Receives `locations: Location[]` via props. The PARENT is responsible
- *    for fetching from Supabase and filtering (by category / search query)
- *    before passing the array in. This component does no fetching.
- *  - Pin colour + emoji come from CATEGORIES (lib/categories.ts) keyed by
- *    `location.type`. If you add a 5th category later, add it there ONLY —
- *    this component picks it up automatically.
- *
- * REQUIRED ENV VAR (in ladywood-local/.env.local):
- *   NEXT_PUBLIC_GOOGLE_MAPS_API_KEY=your-key-here
- *
- * REQUIRED PACKAGE (run once):
- *   npm install @vis.gl/react-google-maps
- *
- * NOTE on `mapId`: AdvancedMarker requires a Map ID. "DEMO_MAP_ID" works
- * for local dev. For production, create one in Google Cloud Console →
- * Map Management and replace the constant below.
- */
 
 import { useState } from 'react'
 import {
