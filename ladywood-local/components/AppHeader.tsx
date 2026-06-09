@@ -14,8 +14,8 @@ export default function AppHeader() {
           <Image
             src="/logo.png"
             alt="Ladywood Local logo"
-            width={38}
-            height={38}
+            width={51}
+            height={51}
             className={styles.logo}
             priority
           />

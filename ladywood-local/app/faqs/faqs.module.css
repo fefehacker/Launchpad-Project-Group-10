@@ -1,6 +1,8 @@
 .pageBody {
   min-height: calc(100vh - 64px);
-  background: #f2f9ec;
+  background-image: url('/background.png');
+  background-size: cover;
+  background-attachment: fixed;
   display: flex;
   align-items: flex-start;
   justify-content: center;

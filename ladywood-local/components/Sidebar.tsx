@@ -42,10 +42,10 @@ export default function Sidebar({
         <aside
             className="sidebar"
             style={{
-                ['--sidebar-width' as any]: isCollapsed ? '60px' : '260px',
+                ['--sidebar-width' as any]: isCollapsed ? '72px' : '260px',
                 ['--sidebar-height' as any]: isCollapsed ? '64px' : '50vh',
                 padding: 16,
-                background: '#fafafa',
+                background: '#e9ffd8',
                 borderRight: '2px solid #e0e0e0',
                 overflowY: 'auto',
                 flexShrink: 0,
@@ -135,7 +135,8 @@ export default function Sidebar({
                             alignItems: 'center',
                             justifyContent: isCollapsed ? 'center' : 'flex-start',
                             gap: isCollapsed ? 0 : 8,
-                            width: '100%',
+                            width: isCollapsed ? '38px' : '100%',
+                            height: isCollapsed ? '38px' : '41px',
                             padding: '8px 12px',
                             marginBottom: 8,
                             background: isActive ? cat.colour : 'white',
